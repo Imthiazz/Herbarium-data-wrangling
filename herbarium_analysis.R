@@ -56,7 +56,7 @@ herb <- read.csv(
 gazet <- read_csv("data/gazetteer.csv")
 
 # =============================================================================
-# COLUMN SELECTION & RENAMING
+# COLUMN FILTERING & RENAMING
 # =============================================================================
 
 herb <- herb |>
@@ -68,7 +68,7 @@ herb <- herb |>
     year = YEAR,
     group = GROUP,
     family = FANAME,
-    Genus = GENAME,
+    genus = GENAME,
     spp = FULLNAME,
     country = CONAME,
     major = MAJOR,
@@ -88,21 +88,19 @@ herb <- herb |>
   )
 
 gazet <- gazet |>
-  select(-c(1:4, 14, 16:23)) |>
+  select(-c(1:4, 16:23)) |>
   rename(
     country = coname,
     y = lat,
     x = long,
     xy_unit = llunit,
+    xy_res = llres,
     xy_source = llorig
   )
 
 # Remove rows with no location data
 herb <- herb |> filter(locality != "No loc." | is.na(locality))
 gazet <- gazet |> filter(x != 0 | is.na(x))
-
-cat(sprintf("  After location filter — herb: %d rows\n", nrow(herb)))
-
 
 # =============================================================================
 # STEP 1 – Remove cultivated specimens
@@ -148,7 +146,7 @@ garden_localities <- c(
   "Anahita"
 )
 
-# Ferns are kept even from garden localities (as per original logic)
+# Ferns are kept even from garden localities
 herb <- herb |>
   filter(!(locality %in% garden_localities & group != "fern"))
 
@@ -165,7 +163,7 @@ gazet_unique <- gazet |>
   ungroup()
 
 # Left-join, then coalesce herb coords with gazet coords where herb is missing
-herb <- herb |>
+herbs <- herb |>
   left_join(
     gazet_unique,
     by = c("locality", "minor"),
@@ -181,18 +179,64 @@ herb <- herb |>
   ) |>
   # Drop all the suffixed columns and redundant fields
   select(
-    -ends_with(".herb"),
-    -ends_with(".gazet"),
-    -country.gazet,
-    -major.gazet, # these come from the gazet join artefact
     -cul,
     -cul_note
+  )
+
+herb <- herb |>
+  left_join(
+    gazet_unique,
+    by = c("locality", "minor"),
+    suffix = c(".herb", ".gazet")
   ) |>
-  rename(country = country.herb, major = major.herb)
+  mutate(
+    # Final coordinates
+    x = coalesce(na_if(x.herb, 0), x.gazet),
+    y = coalesce(na_if(y.herb, 0), y.gazet),
+
+    # Track source of coordinates
+    coord_source = case_when(
+      !is.na(x.herb) & x.herb != 0 ~ "herb",
+      (is.na(x.herb) | x.herb == 0) & !is.na(x.gazet) ~ "gazet",
+      TRUE ~ "missing"
+    ),
+
+    # Merge metadata fields
+    ns = coalesce(ns.herb, ns.gazet),
+    ew = coalesce(ew.herb, ew.gazet),
+    xy_unit = coalesce(xy_unit.herb, xy_unit.gazet),
+    xy_source = coalesce(xy_source.herb, xy_source.gazet)
+  ) |>
+  select(
+    id,
+    cat,
+    name,
+    year,
+    group,
+    family,
+    genus,
+    spp,
+    country = country.herb, # or coalesce if needed
+    major = major.herb,
+    minor,
+    locality,
+    loc_note,
+    x,
+    y,
+    ns,
+    ew,
+    xy_unit,
+    xy_source,
+    coord_source,
+    habitat_note,
+    notes
+  )
+
+glimpse(herb)
 
 write_xlsx(herb, "herb_f.xlsx")
 
-rm(gazet, gazet_unique)
+rm(gazet, gazet_unique) # Tidy
 
 # =============================================================================
 # STEP 4 – Extract species names from habitat_note column
