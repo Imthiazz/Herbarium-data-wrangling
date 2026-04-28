@@ -1,0 +1,878 @@
+gazcode,synof,continent,region,coname,major,minor,locality,lat,ns,long,ew,llunit,llres,llorig,latmin,latmax,longmin,longmax,altmin,altmax,alt1,alt2
+359,1536,Africa,Western Indian Ocean,Mauritius,Mauritius,,16eme Mille,20.2012,S,57.3338,E,DMS,,,0,0,0,0,0,0,494,0
+1113,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Abercrombie,20.145405,S,57.522678,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+112,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Albion,20.209064,S,57.409269,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+450,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Alexandra Falls,20.433759,S,57.457795,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1001,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Vacoas,Allée Brillant,20.299009,S,57.503663,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+352,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Alma,20.1405,S,57.335,E,DMS,,,0,0,0,0,0,0,452,0
+314,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Alma Hill,20.136,S,57.3401,E,DMS,5,,20.133376,20.133781,57.3356,57.3400064,0,0,460,464
+1449,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Alma S.E.,20.239663,S,57.567768,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1701,190,Africa,Western Indian Ocean,Mauritius,Mauritius,,Amber Island,20.036933,S,57.6995,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2199,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Anahita,20.1719,S,57.472,E,DMS,,,0,0,0,0,0,0,0,0
+474,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Anse Courtois,20.201298,S,57.50665,E,DD,,Google Earth,0,0,0,0,0,0,304,0
+1623,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Anse Jonchée,20.350187,S,57.743519,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+975,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Anse La Raie,19.99002,S,57.631527,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1421,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Antoinette S.E.,20.125874,S,57.642153,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2082,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Arsenal,20.106446,S,57.540202,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1803,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Astroea S.E.,20.395326,S,57.63587,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+323,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Aubin,20.0749,S,57.4117,E,DMS,,,0,0,0,0,0,0,87,0
+1426,3,Africa,Western Indian Ocean,Mauritius,Mauritius,,Australia,20.155471,S,57.652745,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1448,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bagatelle,0,,0,,,,,0,0,0,0,0,0,0,0
+1222,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bagatelle S.E.,0,,0,,,,,0,0,0,0,0,0,0,0
+816,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Baguth Crown Land,20.414967,S,57.45031,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1072,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Baie de la Petite Rivière Noire,20.392805,S,57.37861,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+45,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Baie du Cap,20.486467,S,57.378616,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+477,480,Africa,Western Indian Ocean,Mauritius,Mauritius,,Baie du Jacotet,20.500948,S,57.444915,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+392,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Baie du Tombeau,20.0823,S,57.3038,E,DMS,,,0,0,0,0,0,0,10,0
+987,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bain Boeuf,19.98755,S,57.606369,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1154,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bain des Dames,20.159417,S,57.48329,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+217,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Balaclava,20.082989,S,57.516476,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1558,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Balaclava S.E.,20.07852,S,57.520319,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1301,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Balfour Garden,20.229757,S,57.477487,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1619,255,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bambou,20.261292,S,57.41489,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+812,974,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bambou Mt,20.322535,S,57.74508,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+452,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bambou Mt Range,20.325092,S,57.733825,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+255,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bambous,20.261292,S,57.41489,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2116,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Black River,Bambous District court,20.250704,S,57.419476,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2198,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bambous Virieux,0,,0,,,,,0,0,0,0,0,0,0,0
+1369,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bananes,20.345481,S,57.59574,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+97,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bar le Duc,20.234675,S,57.574639,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+329,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Barachois Choisy,20.144722,S,57.738333,E,DD,,,0,0,0,0,0,0,10,0
+61,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Barachois Montagu,20.145,S,57.472,E,DMS,,,0,0,0,0,0,0,0,0
+11,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Barkly,20.227748,S,57.455078,E,DMS,,,0,0,0,0,0,0,0,0
+2066,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Barkly Experimental Station,20.133341,S,57.274128,E,DMS,,,0,0,0,0,0,0,0,0
+75,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bassin,20.299297,S,57.453458,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+284,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bassin Anglais,20.340633,S,57.501775,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2042,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bassin Balloo,20.378686,S,57.560354,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+134,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bassin Blanc,20.453344,S,57.476518,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1781,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bassin Lancet,0,,0,,,,,0,0,0,0,0,0,0,0
+1377,1444,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bassin Mill,20.299297,,57.453458,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1860,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Pamplemousses,Bassin Ramassé,0,,0,,,,,0,0,0,0,0,0,0,0
+1444,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bassin S.E.,20.299297,,57.453458,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+948,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bassin des Aigrettes,0,,0,,,,,0,0,0,0,0,0,0,0
+1130,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Batterie des Grenadiers,20.03,S,57.31,E,DM,5,,0,0,0,0,0,0,0,0
+792,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beard Crown Land,20.348891,S,57.504343,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+117,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beau Bassin,20.223237,S,57.468419,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+451,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beau Bois,0,,0,,,,,0,0,0,0,0,0,457,0
+312,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beau Champ,0,,0,,,,,0,0,0,0,0,0,39,0
+2089,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Bel Ombre,Beau Champ,20.501638,S,57.43759,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2090,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Flacq,Beau Champ,20.275815,S,57.787155,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+551,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Flacq,Beau Champ S.E.,20.275815,S,57.787155,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1492,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beau Plan,20.100007,S,57.579266,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1671,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beau Plan S.E.,20.100007,S,57.579266,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+121,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beau Rivage,20.258824,S,57.791486,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1147,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beau Séjour,0,,0,,,,,0,0,0,0,0,0,0,0
+1233,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beau Vallon,20.42602,S,57.702955,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1183,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beaux Songes,20.280243,S,57.425169,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+158,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Beemanique,20.37537,S,57.591411,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1578,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bel Air,20.258248,S,57.754445,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bel Ombre,20.503767,S,57.414253,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+246,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bel Ombre S.E.,20.503767,S,57.414253,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1123,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bell Village,20.17414,S,57.483234,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1082,2085,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Isle,20.256559,S,57.400906,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+552,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Mare,20.199581,S,57.777152,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+668,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Mare S.E.,20.199581,S,57.777152,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+128,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Rive,0,,0,,,,,0,0,0,0,0,0,0,0
+2102,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Moka,Belle Rive,20.28198,S,57.563398,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1814,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Rive Crown Land,20.288692,S,57.558342,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1469,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Rose,0,,0,,,,,0,0,0,0,0,0,0,0
+2105,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Quatre Bornes,Belle Rose,20.255924,S,57.481113,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1355,1123,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Village,20.169216,S,57.487146,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+361,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Vue,20.0555,S,57.3434,E,DMS,,,0,0,0,0,0,0,68,0
+856,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Grand Gaube,Belle Vue Cugnet,20.01007,S,57.659719,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1458,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Vue Harel,20.069027,S,57.600778,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1464,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Vue Mauricia,0,,0,,,,,0,0,0,0,0,0,0,0
+1765,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Albion,Belle Vue Phare,20.201872,S,57.408635,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2091,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Pamplemousses,Belle Vue Robillard,20.035944,S,57.616574,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1219,1458,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Vue S.E.,20.069027,S,57.600778,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2085,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belle Île,20.256559,S,57.400906,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1544,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Belvédère,0,,0,,,,,0,0,0,0,0,0,0,0
+966,158,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bemanique,20.37537,S,57.591411,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+748,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Benares,20.48622,S,57.590883,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1029,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Benares S.E.,20.498927,S,57.594454,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1348,275,Africa,Western Indian Ocean,Mauritius,Mauritius,,Berthelot,20.211482,S,57.498948,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+275,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Berthelot Mt,20.211482,S,57.498948,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+79,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Black River,20.371749,S,57.394861,E,DD,3,Google Earth,0,0,0,0,0,0,0,0
+1938,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Black River Aviaries,20.361808,S,57.371332,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1252,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Black River Bridge,20.366673,S,57.380172,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1798,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Black River Cemetry,20.358615,S,57.366252,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+433,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Black River Gorges,20.40036,S,57.444025,E,DD,3,Google Earth,0,0,0,0,0,0,0,0
+140,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Black River Gorges National Park,20.2209,S,57.2631,E,DMS,,,0,0,0,0,0,0,602,0
+32,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Black River Gorges viewpoint,20.42316,S,57.429554,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+575,23,Africa,Western Indian Ocean,Mauritius,Mauritius,,Black River Mt,20.40446,S,57.408977,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1651,23,Africa,Western Indian Ocean,Mauritius,Mauritius,,Black River Peak,20.40446,S,57.408977,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+91,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Blanche Mt,20.16,S,57.42,E,DMS,,,0,0,0,0,0,0,300,0
+1232,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Blue Bay,20.44202,S,57.71464,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1703,1232,Africa,Western Indian Ocean,Mauritius,Mauritius,,Blue Lagoon,20.44202,S,57.71464,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2043,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bois Chéri,0,,0,,,,,0,0,0,0,0,0,0,0
+893,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bois Pignolet,20.129795,S,57.544641,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+33,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bois Rouge,20.058654,S,57.584774,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+145,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bois Sec,20.427722,S,57.499667,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+277,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bon Courage,20.474596,S,57.422082,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1218,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bon Espoir,20.090172,S,57.631862,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1036,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bonne Terre,20.290495,S,57.486068,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2012,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bonne Veine,20.240864,S,57.596216,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1077,1359,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bouchon,20.468348,S,57.679283,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2117,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Flacq,Bramsthan,20.212537,S,57.737024,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1625,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bramsthan Argy,20.200346,S,57.735771,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+296,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Bras D'Eau,20.144887,S,57.725606,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+136,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Brise Fer,20.378972,S,57.43125,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+16,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Brise Fer CMA,20.22374,S,57.26351,E,DMS,,,0,0,0,0,0,0,613,0
+443,136,Africa,Western Indian Ocean,Mauritius,Mauritius,,Brise Fer Mt,20.378972,S,57.43125,E,DD,,Google Earth,0,0,0,0,0,0,609,0
+682,136,Africa,Western Indian Ocean,Mauritius,Mauritius,,Brise Fer Peak,20.378972,S,57.43125,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+562,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Brise Latour,20.326121,S,57.453834,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+729,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Brisee Les Gorges,0,,0,,,,,0,0,0,0,0,0,0,0
+1327,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Britannia,20.45032,S,57.561802,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+304,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Britannia S.E.,20.454855,S,57.564889,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+523,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Butte Chaumont,20.303268,S,57.541725,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1228,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Butte à l'Herbe,19.999262,S,57.654487,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+252,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cabinet,20.313276,S,57.454199,E,DD,3,Google Earth,0,0,0,0,0,0,0,0
+311,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cabinet - Magenta,20.1965,S,57.2704,E,DMS,,,0,0,0,0,0,0,301,0
+1655,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cabinet - Magenta road,20.315801,S,57.451049,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+871,929,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cabinet Crown Land,20.314414,S,57.451482,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+521,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cabinet Hill,20.313276,S,57.454199,E,DD,,Google Earth,0,0,0,0,0,0,366,0
+1593,2112,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cabinet Mountain Reserve,20.349722,S,57.462222,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2112,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cabinet Nature Reserve,20.349722,S,57.462222,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+763,1655,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cabinet Road,20.315801,S,57.451049,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+929,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cabinet State Land,20.314414,S,57.451482,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1126,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Calebasses,20.117439,S,57.556107,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1622,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Calebasses Bridge,20.116563,S,57.558212,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+988,979,Africa,Western Indian Ocean,Mauritius,Mauritius,,Camizard Mt,20.330374,S,57.72912,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+354,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Camp Ithier,20.1258,S,57.4427,E,DMS,,,0,0,0,0,0,0,64,0
+1627,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Camp Mapou,20.333491,S,57.473069,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+967,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Camp Thorel,20.216356,S,57.624077,E,DD,,Google Earth,0,0,0,0,0,0,1100,0
+1729,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Camp de Masque,20.242245,S,57.671702,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+398,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Candos,20.1633,S,57.2852,E,DMS,,,0,0,0,0,0,0,402,0
+573,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Candos Mt,20.1633,S,57.290244,E,DMS,,,0,0,0,0,0,0,0,0
+892,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Canon Crown Land,20.479003,S,57.365975,E,DD,,Google Earth,0,0,0,0,0,0,36,60
+1234,540,Africa,Western Indian Ocean,Mauritius,Mauritius,,Canon Mt,20.28,S,57.22,E,DMS,,,0,0,0,0,0,0,2,0
+1929,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cantin Peak,20.170535,S,57.554489,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+67,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cap Malheureux,19.987204,S,57.612569,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+537,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cascade,20.479992,S,57.464574,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+989,407,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cascade 500 feet,20.442832,S,57.457896,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+407,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cascade 500 pieds,20.442832,S,57.457896,E,DD,,Google Earth,0,0,0,0,0,0,600,0
+1833,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cascade Réduit,20.23829,S,57.489528,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+947,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cascade des Aigrettes,20.400442,S,57.47067,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1410,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cascavelle,20.287141,S,57.416074,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+320,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Case Noyale,20.2413,S,57.2352,E,DMS,5,,0,0,0,0,0,0,209,0
+1040,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cassis,20.164579,S,57.486759,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1255,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cassis Nursery,20.144794,S,57.523101,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+357,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,Castel,20.1737,S,57.3106,E,DMS,,,0,0,0,0,0,0,462,0
+542,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Caverne Tabac,0,,0,,,,,0,0,0,0,0,0,0,0
+1709,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cent Gaulettes,20.408743,S,57.706317,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+80,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Centre de Flacq,20.198274,S,57.722121,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+186,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Chamarel,20.261304,S,57.220504,E,DMS,5,,0,0,0,0,0,0,0,0
+455,873,Africa,Western Indian Ocean,Mauritius,Mauritius,,Chamarel Hill,20.419704,S,57.384825,E,DD,,Google Earth,0,0,0,0,0,0,183,0
+873,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Chamarel Hills,20.419704,S,57.384825,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+651,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Chamarel road,20.425137,S,57.388496,E,DD,5,Google Earth,0,0,0,0,0,0,0,0
+1922,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Chamouny,20.478033,S,57.479722,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1205,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Port Louis,Champs de Mars,20.168905,S,57.510481,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+930,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Chateau d'Eau valley,20.184191,S,57.518921,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+220,222,Africa,Western Indian Ocean,Mauritius,Mauritius,,Chebelle,20.204185,S,57.457167,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+430,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Chemin Cheval,20.412505,S,57.476679,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+6,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Choisy,20.285909,S,57.220214,E,DMS,,Google Earth,0,0,0,0,0,0,0,0
+222,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Chébel,20.204185,S,57.457167,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1206,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Port Louis,Citadelle,20.163446,S,57.510709,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+362,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cité La Cure,20.0917,S,57.3202,E,DMS,,,0,0,0,0,0,0,33,0
+2096,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Clavet,20.301347,S,57.705125,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1440,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cluny,20.370124,S,57.607234,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1732,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cluny St,20.370779,S,57.60429,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+119,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cocotte Mt,20.439481,S,57.467358,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1483,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cocotte Mt CMA,20.44159,S,57.4705,E,DD,3,,0,0,0,0,0,0,0,0
+201,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Coin de Mire,19.941386,S,57.620846,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+725,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Colophane Plateau,20.377559,S,57.440873,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+253,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Combo,20.455875,S,57.509963,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2034,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Combo Crown Land,20.455875,S,57.509963,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1108,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Congomah,20.149807,S,57.598993,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+268,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Constance,0,,0,,,,,0,0,0,0,0,0,0,0
+2083,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Flacq,Constance,20.179554,S,57.715444,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1595,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Constance S.E.,20.134736,S,57.640012,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1745,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Constance d'Arifat,0,,0,,,,,0,0,0,0,0,0,0,0
+1838,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cordé Crown Land,20.416551,S,57.390271,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1541,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Coromandel,20.191226,S,57.469313,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+431,39,Africa,Western Indian Ocean,Mauritius,Mauritius,,Corps de Garde,20.262393,S,57.446255,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+39,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Corps de Garde Mt,20.262393,S,57.446255,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+303,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cottage Mapou,20.074517,S,57.621692,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+565,950,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cratere Kanaka,20.4056,S,57.518543,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+535,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Cressonville,20.284853,S,57.434314,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1901,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Crève Coeur,20.18897,S,57.56539,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1920,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Crève Coeur  Peak,20.193188,S,57.554308,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+29,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Curepipe,20.317087,S,57.526529,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1163,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Curepipe Botanic Garden,20.192777,S,57.304532,E,DMS,,,0,0,0,0,0,0,0,0
+1813,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Curepipe C. L. Arboretum,20.1933,S,57.3037,E,DMS,,,0,0,0,0,0,0,0,0
+1808,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,Curepipe Forestry Nursery,20.326346,S,57.515274,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+321,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Curepipe Point,20.2122,S,57.3221,E,DMS,,,0,0,0,0,0,0,655,0
+1560,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Curepipe Road,0,,0,,,,,0,0,0,0,0,0,0,0
+236,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Côte D'Or,20.246093,S,57.530616,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1734,256,Africa,Western Indian Ocean,Mauritius,Mauritius,,D'Hauvillard Mt,20.323645,S,57.562972,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+445,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Dauguet,20.182385,S,57.518148,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+501,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Dayot Crown Land,20.409348,S,57.484129,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+280,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Declerc,20.428898,S,57.492251,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1320,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Declerc Crown Land,20.428898,S,57.492251,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1562,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Deep River,20.282767,S,57.736207,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1918,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Desgranges Road,0,,0,,,,,0,0,0,0,0,0,609,0
+1244,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Deux Bras,20.403813,S,57.63569,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+494,176,Africa,Western Indian Ocean,Mauritius,Mauritius,,Deux Mamelles,20.197451,S,57.56783,E,DD,,Google Earth,0,0,0,0,0,0,472,0
+951,176,Africa,Western Indian Ocean,Mauritius,Mauritius,,Deux Mamelles Mt,20.197451,S,57.56783,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+663,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Devoyenne Crown Land,20.329487,S,57.543412,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+276,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Domaine Lagrave,20.204703,S,57.361543,E,DMS,,,0,0,0,0,0,0,430,450
+1937,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Domaine du Chamarel,20.435406,S,57.370193,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1482,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Domaine du Chasseur,20.34208,S,57.72948,E,DD,,,0,0,0,0,0,0,139,0
+1561,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Donjon St Louis,20.1745,S,57.47443,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1268,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Dromart Crown Land,20.204681,S,57.608217,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+574,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Dubreuil,20.301567,S,57.599996,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+706,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Eau Bleu,20.349013,S,57.600045,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+644,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Eau Bouilli,20.174816,S,57.596677,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+215,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,Eau Coulée,20.306052,S,57.524409,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+101,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ebène,20.244465,S,57.491653,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1774,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ebène S.E.,20.244465,S,57.491653,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2030,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Endémika,20.035061,S,57.625372,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+109,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Espérance,20.230332,S,57.597501,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1190,270,Africa,Western Indian Ocean,Mauritius,Mauritius,,Etoile,20.328574,S,57.682226,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1112,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,F.U.E.L. S.E.,20.210406,S,57.692795,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1010,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Fayence Mt,20.24362,S,57.697569,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+251,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ferney,20.2018,S,57.414669,E,DMS,,,0,0,0,0,0,0,0,0
+516,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ferney Mt,20.2018,S,57.414669,E,DMS,,Google Earth,0,0,0,0,0,0,0,0
+1242,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ferney S.E.,20.362543,S,57.706373,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+87,267,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ferney Valley,20.2,S,57.41,E,DMS,,,0,0,0,0,0,0,0,0
+860,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ferret,20.329692,S,57.571105,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2103,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Five Ways Crown Land,20.287656,S,57.548647,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+184,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Fixon,20.473234,S,57.424664,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+199,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Flacq,0,,0,,,,,0,0,0,0,0,0,0,0
+7,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Flat Island,19.874993,S,57.65807,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1155,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Flic en Flac,20.295996,S,57.373794,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+103,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Floreal,20.312225,S,57.505166,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+10,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Florin,20.391248,S,57.459996,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+771,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Florin Crown Land,20.391248,S,57.459996,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1217,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Fond du Sac,20.049567,S,57.584416,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1573,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Forbach,20.055322,S,57.612742,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1298,1808,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,Forest Department Nursery,20.326346,S,57.515274,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+749,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Forest Museum,0,,0,,,,,0,0,0,0,0,0,0,0
+115,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,Forest Side,20.322939,S,57.539345,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1463,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Fort Blanc,20.157858,S,57.487551,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1149,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Fort George,20.147043,S,57.490826,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1117,1801,Africa,Western Indian Ocean,Mauritius,Mauritius,,Fressanges,20.349527,S,57.584126,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1801,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Fressanges Station,20.349527,S,57.584126,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1624,1175,Africa,Western Indian Ocean,Mauritius,Mauritius,,G.R.N.W.,20.113451,S,57.282882,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+675,394,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gabriel Island,19.885422,S,57.672215,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1931,394,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gabriel Islet,19.885422,S,57.672215,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gaulettes Serrées,20.1253,S,57.3839,E,DMS,,,0,0,0,0,0,0,0,0
+1720,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gavarny,0,,0,,,,,0,0,0,0,0,0,0,0
+1855,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gentil Lieu Ridge,20.202,S,57.253,E,DMS,,,0,0,0,0,0,0,230,260
+847,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gibraltar,20.225612,S,57.704436,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+231,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Glen Park,20.321744,S,57.485678,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+915,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Goat Rock,20.188654,S,57.50796,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1830,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Goodlands,20.039199,S,57.649597,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1571,433,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gorges Rivière Noire,20.40036,S,57.444025,E,DD,3,Google Earth,0,0,0,0,0,0,0,0
+1407,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gouly,20.423208,S,57.501228,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+815,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gouly Fils Crown Land,20.42384,S,57.503238,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+193,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gouly Forest Station,20.422115,S,57.5095,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1850,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gouly Père,20.2534,S,57.2929,E,DMS,,Google Earth,0,0,0,0,0,0,0,0
+382,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gouly Père Nature Reserve,20.253,S,57.2932,E,DMS,,,0,0,0,0,0,0,638,0
+1006,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Government House,20.230111,S,57.488959,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+347,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Baie,20.0047,S,57.3509,E,DMS,,,0,0,0,0,0,0,8,0
+188,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Bassin,20.251894,S,57.293943,E,DMS,,,0,0,0,0,0,0,0,0
+1074,347,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Bay,20.009141,S,57.5835,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+438,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Fond,20.324482,S,57.677215,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+373,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Gaube,20.0114,S,57.3926,E,DMS,,,0,0,0,0,0,0,33,0
+931,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Glacis,20.196906,S,57.539762,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+808,931,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Glacis Montagne,20.196906,S,57.539762,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+786,931,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Glacis Mountain,20.196906,S,57.539762,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+968,2071,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Malabar Hill,20.227807,S,57.44716,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2071,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Malabar Mountain,20.227807,S,57.44716,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+86,317,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Peak,20.19559,S,57.54844,E,DD,,,0,0,0,0,0,0,0,0
+317,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Peak Mt.,20.1155,S,57.3243,E,DMS,,,0,0,0,0,0,0,507,0
+298,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Port,20.231194,S,57.394169,E,DMS,,,0,0,0,0,0,0,0,0
+1334,1175,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand River North West,20.121701,S,57.282451,E,DMS,,,0,0,0,0,0,0,0,0
+353,726,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand River South East,20.1643,S,57.4618,E,DMS,,,0,0,0,0,0,0,38,0
+1621,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Rivière N.E.,0,,0,,,,,0,0,0,0,0,0,0,0
+207,1175,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Rivière North West,20.113451,S,57.282882,E,DMS,,Google Earth,0,0,0,0,0,0,0,0
+1780,726,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Rivière S.E.,20.1643,S,57.4618,E,DMS,,Google Earth,0,0,0,0,0,0,457,0
+1427,726,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Rivière South East,20.1643,S,57.4618,E,DMS,,Google Earth,0,0,0,0,0,0,0,0
+364,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Sable,20.1955,S,57.4605,E,DMS,,,0,0,0,0,0,0,3,0
+1858,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grand Sable Bay,20.321149,S,57.768125,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1819,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grande Retraite,20.168636,S,57.684411,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1251,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grande Rivière Noire,20.363736,S,57.38894,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1175,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grande Rivière Nord Ouest,20.113451,S,57.282882,E,DMS,,Google Earth,0,0,0,0,0,0,0,0
+1329,726,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grande Rivière S.E.,20.1643,S,57.4618,E,DMS,,Google Earth,0,0,0,0,0,0,0,0
+726,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grande Rivière Sud Est,20.1643,S,57.4618,E,DMS,,Google Earth,0,0,0,0,0,0,0,0
+943,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grande Rosalie,20.135012,S,57.611889,E,DD,,Google Earth,0,0,0,0,0,0,91,0
+331,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gris Gris,20.3125,S,57.3152,E,DMS,,,0,0,0,0,0,0,21,0
+1603,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gros Bois,20.44091,S,57.612381,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1767,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gros Cailloux,20.205571,S,57.436652,E,DD,,Google Earth,0,0,0,0,0,0,243,0
+98,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Grosse Roche,20.358602,S,57.433357,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1719,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,Grotte Bonnefin,0,,0,,,,,0,0,0,0,0,0,0,0
+1109,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Guibies,20.191879,S,57.497545,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+245,63,Africa,Western Indian Ocean,Mauritius,Mauritius,,Guibies Peak,20.210103,S,57.513892,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+63,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Guiby Peak,20.210103,S,57.513892,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+198,201,Africa,Western Indian Ocean,Mauritius,Mauritius,,Gunner's Quoin,19.941386,S,57.62084,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1271,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Haute Rive,20.099282,S,57.70646,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+100,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Henrietta,20.335578,S,57.476147,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1728,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Henrietta Road,20.336599,S,57.474129,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+211,1471,Africa,Western Indian Ocean,Mauritius,Mauritius,,Hermitage,0,,0,,,,,0,0,0,0,0,0,0,0
+1057,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Hermitage S.E.,0,,0,,,,,0,0,0,0,0,0,0,0
+358,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Highlands,20.1603,S,57.315,E,DMS,,,0,0,0,0,0,0,436,0
+1480,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Hugnin Road,20.244848,S,57.467234,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+600,1280,Africa,Western Indian Ocean,Mauritius,Mauritius,,Isle aux Cerfs,20.271834,S,57.803511,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+480,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Jacotet Bay,20.500948,S,57.444915,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2007,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Jauffret Crown Land,20.168816,S,57.610796,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1452,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Joachim Crown Land,20.333124,S,57.51656,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1326,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Joli Bois,20.443927,S,57.588677,E,DD,,Google Earth,0,0,0,0,0,0,304,0
+62,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Junction Peak,20.210295,S,57.494436,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+511,950,Africa,Western Indian Ocean,Mauritius,Mauritius,,Kanaka,20.4056,S,57.518543,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+950,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Kanaka Crater,20.4056,S,57.518543,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1391,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Long Mountain,L' Amitié,20.153611,S,57.575,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+885,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,L'Embrasure,20.452487,S,57.347636,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+830,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,L'Escalier,20.473652,S,57.618371,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+270,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,L'Etoile,20.2,S,57.41,E,DMS,,,0,0,0,0,0,0,0,0
+272,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,L'asile State Land,20.0635,S,57.3287,E,DMS,,,0,0,0,0,0,0,62,0
+1195,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,L'échelle Rock,20.160821,S,57.550671,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+887,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,La Brasserie,20.333508,S,57.518176,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+379,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Cambuse,20.2721,S,57.4202,E,DMS,,,0,0,0,0,0,0,2,0
+1540,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Caroline,20.251334,S,57.756099,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+380,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Caverne,20.1822,S,57.285,E,DMS,,,0,0,0,0,0,0,424,0
+1857,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Chaumière,20.246751,S,57.442576,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+366,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Coupée St. Martin,20.2135,S,57.2349,E,DMS,,,0,0,0,0,0,0,87,118
+639,1932,Africa,Western Indian Ocean,Mauritius,Mauritius,Port Louis,La Fenetre,20.16479,S,57.53481,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1636,1932,Africa,Western Indian Ocean,Mauritius,Mauritius,Port Louis,La Fenetre Mt,20.16479,S,57.53481,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1111,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Black River,La Fenetre Valley,20.268499,S,57.445899,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1932,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Port Louis,La Fenêtre Mt,20.176267,S,57.52855,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+227,346,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Ferme,20.255203,S,57.425945,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2110,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Ferme Canal,20.251153,S,57.416703,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+664,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Ferme Cascade,20.259125,S,57.440518,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+346,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Ferme Reservoir,20.1524,S,57.2543,E,DMS,,,0,0,0,0,0,0,145,0
+672,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Flora,20.409948,S,57.560145,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1572,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Gaiété,20.216332,S,57.73151,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1446,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Laura,20.240842,S,57.748159,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+150,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Marie,20.339096,S,57.493251,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1096,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Mecque,20.254561,S,57.394301,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+85,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Mivoie,20.365278,S,57.410833,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1395,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Mivoie Mt,20.351862,S,57.373823,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+271,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Nicolière,20.155183,S,57.612383,E,DD,,Google Earth,0,0,0,0,0,0,293,0
+1662,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Nourrice,20.290208,S,57.745155,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1663,1662,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Nourrice,20.290208,S,57.745155,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1792,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Pipe Dam,20.316312,S,57.620864,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+274,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Prairie,20.48704,S,57.35806,E,DD,,,0,0,0,0,0,0,0,0
+1279,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Preneuse,20.350253,S,57.366678,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1800,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,La Source,0,,0,,,,,0,0,0,0,0,0,0,0
+348,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,La Vigie,20.1845,S,57.3244,E,DMS,,,0,0,0,0,0,0,470,0
+384,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Labourdonnais,20.041141,S,57.365979,E,DMS,,,0,0,0,0,0,0,89,0
+643,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Labourdonnais S.E.,20.070777,S,57.619607,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1820,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Lagouardette,20.428364,S,57.514846,E,DD,,Google Earth,0,0,0,0,0,0,548,0
+2003,169,Africa,Western Indian Ocean,Mauritius,Mauritius,,Lagrave Montagne,20.19,S,57.35,E,DM,5,,0,0,0,0,0,0,450,0
+637,169,Africa,Western Indian Ocean,Mauritius,Mauritius,,Lagrave Mt,20.339155,S,57.60492,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1748,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Lalmatie,20.193149,S,57.669346,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1787,159,Africa,Western Indian Ocean,Mauritius,Mauritius,,Laporte Mt,20.45172,S,57.356759,E,DD,,Google Earth,0,0,0,0,0,0,152,0
+817,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Lavillèon,20.440368,S,57.366791,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1359,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Bouchon,20.468348,S,57.679283,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+825,404,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Bouton,20.25023,S,57.25885,E,DMS,,,0,0,0,0,0,0,0,0
+459,404,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Bouton Crown Land,20.25023,S,57.25885,E,DMS,,,0,0,0,0,0,0,400,0
+404,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Bouton State Land,20.25023,S,57.25885,E,DMS,,,0,0,0,0,0,0,511,0
+336,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Cap,20.492053,S,57.376785,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+941,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Chaland,20.447962,S,57.70421,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+609,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Chat Montagne,20.18,S,57.4505,E,DMS,,,0,0,0,0,0,0,0,0
+880,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Chat Mt,20.18,S,57.4505,E,DMS,,,0,0,0,0,0,0,0,0
+819,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Chat et La Souris Montagne,20.313537,S,57.755935,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+110,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Hochet,20.132752,S,57.530759,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+456,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Morne,20.469512,S,57.348349,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+634,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Morne Brabant,20.453014,S,57.324862,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1009,634,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Morne Brabant Mt,20.453014,S,57.324862,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+982,634,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Morne Mt,20.453014,S,57.324862,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+832,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Morne Village,20.470687,S,57.345408,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1531,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Pavillon,0,,0,,,,,0,0,0,0,0,0,0,0
+138,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Pouce,20.1166,S,57.3119,E,DMS,,,0,0,0,0,0,0,504,0
+839,138,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Pouce Mt,20.19802,S,57.528557,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+914,138,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Pouce Range,20.19802,S,57.528557,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+250,92,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Pétrin,20.24,S,57.275,E,DMS,,,0,0,0,0,0,0,660,0
+810,92,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Pétrin Crown Land,20.407335,S,57.470193,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+405,92,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Pétrin Nature Reserve,20.407335,S,57.470193,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+377,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Thabor,20.1357,S,57.2839,E,DMS,,,0,0,0,0,0,0,265,0
+1297,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Val,20.357072,S,57.62821,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1921,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Val Cluny,20.357072,S,57.62821,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1037,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Val Reservoir,20.365543,S,57.629466,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1299,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Val S.E.,20.357072,,57.62821,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+550,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Vallon,20.358871,S,57.692111,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1806,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Le Vallon Ferney S.E.,20.358871,S,57.692111,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+543,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Les Gorges Crown Land,20.389125,S,57.44626,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+561,1109,Africa,Western Indian Ocean,Mauritius,Mauritius,,Les Guibies,20.191879,S,57.497545,E,DD,,Google Earth,0,0,0,0,0,0,213,0
+149,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Les Mares,20.427417,S,57.470424,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1049,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Les Marianne,0,,0,,,,,0,0,0,0,0,0,0,0
+991,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Les Mariannes,20.167974,S,57.593447,E,DD,,Google Earth,0,0,0,0,0,0,435,0
+993,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Les Mariannes Mt Range,20.176741,S,57.57981,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1165,239,Africa,Western Indian Ocean,Mauritius,Mauritius,,Les Pailles,20.192528,S,57.488381,E,DD,,,0,0,0,0,0,0,0,0
+65,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Les Salines,20.376324,S,57.36935,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1641,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Letard,20.180398,S,57.517804,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+612,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Letard Crown Land,20.180398,S,57.517804,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1635,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Letard Mt,20.17359,S,57.53286,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+221,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Lion Mt,20.36137,S,57.725897,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1596,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Long Mountain,20.146844,S,57.545112,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1007,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Long Mountain Nursery,0,,0,,,,,0,0,0,0,0,0,0,0
+1139,1596,Africa,Western Indian Ocean,Mauritius,Mauritius,,Long Mt,20.146844,S,57.545112,E,DD,,Google Earth,0,0,0,0,0,0,304,0
+395,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Lower Black River Gorges,20.2309,S,57.251,E,DMS,,,0,0,0,0,0,0,194,0
+1928,1635,Africa,Western Indian Ocean,Mauritius,Mauritius,,Létard Mt,20.17322,S,57.53503,E,DD,,,0,0,0,0,0,0,0,0
+1294,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,MSIRI,20.236083,S,57.49453,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+985,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,MWF nursery,0,,0,,,,,0,0,0,0,0,0,0,0
+497,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Macabe-Brise Fer Road,20.23,S,57.26,E,DM,,,0,0,0,0,0,0,600,0
+265,1982,Africa,Western Indian Ocean,Mauritius,Mauritius,,Macabé,20.396376,S,57.456549,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+889,1982,Africa,Western Indian Ocean,Mauritius,Mauritius,,Macabé Reserve,20.396376,S,57.456549,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+315,1982,Africa,Western Indian Ocean,Mauritius,Mauritius,,Maccabé,20.3916,S,57.4501,E,DD,,,0,0,0,0,0,0,0,0
+1982,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Macchabé,20.23544,S,57.27306,E,DMS,,,0,0,0,0,0,0,600,0
+846,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Macchabé plot,20.395593,S,57.455902,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1935,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Macondé,20.488114,S,57.373751,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+178,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Magenta,0,,0,,,,,0,0,0,0,0,0,0,0
+1597,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Magenta Road,0,,0,,,,,0,0,0,0,0,0,0,0
+591,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Magenta Valley,0,,0,,,,,0,0,0,0,0,0,0,0
+635,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Moka,Mahatma Gandhi Institute,20.227164,S,57.502679,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+142,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mahebourg,20.406573,S,57.706821,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1080,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mahebourg Bay,20.399024,S,57.699292,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1733,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mahebourg Cemetry,20.401075,S,57.698251,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1611,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Maison Blanche,20.112358,S,57.590549,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1143,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Malenga,20.198951,S,57.563183,E,DD,,Google Earth,0,0,0,0,0,0,450,0
+1811,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,Malherbes,20.31142,S,57.536129,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1150,1143,Africa,Western Indian Ocean,Mauritius,Mauritius,,Malinga,20.198951,S,57.563183,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+996,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mapou,20.079931,S,57.609216,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1784,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare Chicose,20.383175,S,57.636293,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+3,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare D'Australia,20.155471,S,57.652745,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+17,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare Longue,20.23496,S,57.27248,E,DMS,,,0,0,0,0,0,0,649,0
+124,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare Longue Plateau,0,,0,,,,,0,0,0,0,0,0,650,0
+327,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare Longue Reservoir,20.376023,S,57.462758,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+333,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare Sarcelle,20.0713,S,57.4449,E,DMS,,,0,0,0,0,0,0,6,0
+728,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare aux Joncs,20.387213,S,57.428755,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2185,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Mahebourg,Mare aux Mullets,0,,0,,,,,0,0,0,0,0,0,0,0
+1002,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare aux Riz,20.2351,S,57.277,E,DMS,6,,0,0,0,0,0,0,600,0
+162,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare aux Songes,20.448093,S,57.694706,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+72,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare aux Vacoas,20.365986,S,57.51827,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+76,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mare aux Vacoas,20.365986,S,57.51827,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+212,650,Africa,Western Indian Ocean,Mauritius,Mauritius,,Marianne Island,20.38032,S,57.787093,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1711,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Masilia,0,,0,,,,,0,0,0,0,0,0,0,0
+970,230,Africa,Western Indian Ocean,Mauritius,Mauritius,,Matala Valley,20.321243,S,57.442721,E,DD,3,Google Earth,0,0,0,0,0,0,0,0
+2192,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mauritius Institute,20.09469,S,57.300801,E,DMS,7,Google Earth,0,0,0,0,12,16,14,0
+351,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Medine,20.1537,S,57.2332,E,DMS,,,0,0,0,0,0,0,89,0
+1132,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Medine Camp de Masque,20.242569,S,57.647449,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1180,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Medine S.E.,20.261563,S,57.39629,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1826,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Melrose,20.272096,S,57.638727,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+980,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mer Rouge,20.147412,S,57.495172,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1303,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mesnil,20.293738,S,57.519248,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+182,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Midlands,20.34025,S,57.568832,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+385,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Midlands Dam,20.1931,S,57.3558,E,DMS,,,0,0,0,0,0,0,389,0
+1145,385,Africa,Western Indian Ocean,Mauritius,Mauritius,,Midlands Reservoir,20.317934,S,57.597009,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1590,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Midlands S.E.,20.324957,S,57.612334,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1789,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Midlands swamps,20.328004,S,57.582121,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1721,1457,Africa,Western Indian Ocean,Mauritius,Mauritius,,Minici,20.241324,S,57.51375,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1457,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Minissy,20.241324,S,57.51375,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+300,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Moka,20.221396,S,57.508253,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+396,288,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Choisy,20.0043,S,57.3335,E,DMS,,,0,0,0,0,0,0,8,0
+345,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Desert Alma,20.227471,S,57.533106,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+99,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Désert,0,,0,,,,,0,0,0,0,0,0,0,0
+2115,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Désert  S.E.,0,,0,,,,,0,0,0,0,0,0,0,0
+254,1047,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Désert - Mon Trésor  S.E.,20.451785,S,57.679392,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2107,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Désir S.E.,0,,0,,,,,0,0,0,0,0,0,0,0
+120,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Loisir,20.116224,S,57.679505,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1509,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Rocher,20.094922,S,57.5877,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1628,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Trésor,20.427926,S,57.651205,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1047,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mon Trésor - Mon Désert,20.451785,S,57.679392,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2191,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,Mon Vert,20.2001,S,57.3207,E,DMS,,,0,0,0,0,0,0,585,0
+69,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mondrain,20.325241,S,57.4547,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+369,69,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mondrain Nature Reserve,20.1932,S,57.2717,E,DMS,,,0,0,0,0,0,0,520,0
+694,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Moneron Hill,20.171535,S,57.515659,E,DD,,Google Earth,0,0,0,0,0,0,400,600
+131,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Monkey look-out Rock,0,,0,,,,,0,0,0,0,0,0,0,0
+1229,694,Africa,Western Indian Ocean,Mauritius,Mauritius,,Monneron Hill,20.171535,S,57.515659,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+773,874,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mont Brise,20.342221,S,57.746126,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+874,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mont Brisé,20.342221,S,57.746126,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+288,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mont Choisy,20.022997,S,57.564684,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1379,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mont Choisy S.E.,20.023129,S,57.56013,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1169,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mont Ida,20.241533,S,57.636818,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1204,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mont Plaisir,20.103827,S,57.581077,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+114,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mont Roches,20.235088,S,57.454746,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+776,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mont sur Mont,20.459803,S,57.367723,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+571,974,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Bambou,20.32253,S,57.745081,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+549,91,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Blanche,20.273064,S,57.699487,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+566,580,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Calebasses,20.177581,S,57.581507,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+426,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Cocotte,20.439481,S,57.467358,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+711,176,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Deux Mamelles,20.197451,S,57.56783,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+712,1010,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Fayence,20.24362,S,57.697569,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+428,169,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Lagrave,20.339155,S,57.60492,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+470,159,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Laporte,20.45172,S,57.356759,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+505,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Le Chat,20.18,S,57.4505,E,DMS,,,0,0,0,0,0,0,0,0
+945,138,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Le Pouce,20.19802,S,57.528557,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+454,221,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Lion,20.361379,S,57.725897,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+81,1596,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Longue,20.146844,S,57.545112,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+548,1596,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Longue Range,20.146844,S,57.545112,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+811,1596,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Longue Ridge,20.146844,S,57.545112,E,DD,,Google Earth,0,0,0,0,0,0,304,0
+528,260,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Ory,20.214534,S,57.491833,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+495,898,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Perruche,20.387738,S,57.516731,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+690,747,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne Rempart,20.303758,S,57.428063,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+681,928,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne St Pierre,20.267284,S,57.433235,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+529,928,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne St. Pierre,20.267284,S,57.433235,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+540,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne canon,20.474446,S,57.364181,E,DD,,Google Earth,0,0,0,0,0,0,800,0
+1477,433,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne de la Rivière Noire,20.40036,s,57.444025,E,DD,3,Google Earth,0,0,0,0,0,0,0,0
+434,1923,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne des Creoles,20.356725,S,57.666232,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1722,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne des Creoles Range,20.356725,S,57.666232,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1923,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne des Créoles,20.356725,S,57.666232,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+861,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne du Pouce,20.19802,S,57.528557,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+747,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Montagne du Rempart,20.303758,S,57.428063,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1609,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Port Louis,Montebello,20.199144,S,57.478764,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+309,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Monvert,20.2077,S,57.3128,E,DMS,,,0,0,0,0,0,0,591,0
+818,69,Africa,Western Indian Ocean,Mauritius,Mauritius,,Moon Mountain,20.325241,S,57.4547,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+307,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Morcellement St. André,20.073426,S,57.567279,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1046,634,Africa,Western Indian Ocean,Mauritius,Mauritius,,Morne Brabant,20.28,S,57.18,E,DMS,,,0,0,0,0,0,0,0,0
+367,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Morne Sec,20.2309,S,57.2511,E,DMS,,,0,0,0,0,0,0,194,0
+20,367,Africa,Western Indian Ocean,Mauritius,Mauritius,,Morne Seche,20.2309,S,57.2511,E,DMS,,,0,0,0,0,0,0,0,0
+1412,598,Africa,Western Indian Ocean,Mauritius,Mauritius,,Moulin a Poudre,20.094191,S,57.553493,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+299,1090,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mount S.E.,20.111408,S,57.597068,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+974,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Bambou,20.322535,S,57.745081,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+148,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Beau Champ,20.291327,S,57.769296,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+4,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Brise,20.342628,S,57.748299,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+894,580,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Calebasse,20.177581,S,57.581507,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+580,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Calebasses,20.177581,S,57.581507,E,DD,,Google Earth,0,0,0,0,0,0,640,0
+1539,979,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Camisard,20.330374,S,57.72912,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+979,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Camizard,20.3355,S,57.70608,E,DD,,,0,0,0,0,0,0,0,0
+2020,288,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Choisy,20.022997,S,57.564684,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+249,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Cocotte,20.2616,S,57.275,E,DMS,,,0,0,0,0,0,0,700,0
+256,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt D' Hauvillard,20.323645,S,57.562972,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+176,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Deux Mamelles,20.197451,S,57.56783,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+969,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Fortier,0,,0,,,,,0,0,0,0,0,0,0,0
+169,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Lagrave,20.339155,S,57.60492,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+159,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Laporte,20.45172,S,57.356759,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+383,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Laselle,20.2008,S,57.3701,E,DMS,,,0,0,0,0,0,0,394,0
+1915,1596,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Longue,20.146844,S,57.545112,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+260,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Ory,20.214534,S,57.491833,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+898,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Perruche,20.387738,S,57.516731,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2035,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Savanne,20.27068,S,57.295347,E,DMS,,,0,0,0,0,0,0,689,0
+928,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt St Pierre,20.267284,S,57.433235,E,DD,,,0,0,0,0,0,0,0,0
+592,819,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt Villars,20.314078,S,57.755591,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+902,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt des Creoles,20.356725,S,57.666232,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+143,176,Africa,Western Indian Ocean,Mauritius,Mauritius,,Mt. Deux Mamelles,20.197451,S,57.56783,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1797,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,New Grove,20.412594,S,57.618577,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2095,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Nicolière Crown Land,0,,0,,,,,0,0,0,0,0,0,0,0
+992,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Nicolière Mountains,20.165574,S,57.615578,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+30,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,No loc.,0,,0,,,,,0,0,0,0,0,0,0,0
+518,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Nouvelle Découverte,20.187414,S,57.59166,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+393,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Nouvelle France,20.223,S,57.3358,E,DMS,,,0,0,0,0,0,0,442,0
+1411,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Nouvelle Industries,0,,0,,,,,0,0,0,0,0,0,0,0
+1201,2189,Africa,Western Indian Ocean,Mauritius,Mauritius,Curepipe,Nursery NPCS,20.327442,S,57.504401,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+259,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Olivia,20.299071,S,57.735189,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1161,266,Africa,Western Indian Ocean,Mauritius,Mauritius,,Osterlog,20.348455,S,57.616717,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+239,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pailles,20.11166,S,57.292138,E,DMS,,,0,0,0,0,0,0,0,0
+944,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Palmar,20.216248,S,57.781618,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+74,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pamplemousses,0,,0,,,,,0,0,0,0,0,0,0,0
+595,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pamplemousses Botanic Garden,20.063235,S,57.344728,E,DMS,,,0,0,0,0,0,0,0,0
+2188,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pamplemousses Cemetery,0,,0,,,,,0,0,0,0,0,0,0,0
+2186,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pamplemousses MSIRI station,0,,0,,,,,0,0,0,0,0,0,0,0
+2187,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pamplemousses Market,0,,0,,,,,0,0,0,0,0,0,0,0
+2111,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Papayes Bridge,0,,0,,,,,0,0,0,0,0,0,0,0
+476,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Parc aux Cerfs,20.366275,S,57.550588,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+66,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pereybere,20.000028,S,57.5885,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+84,372,Africa,Western Indian Ocean,Mauritius,Mauritius,,Perrier,20.351829,S,57.489592,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+813,372,Africa,Western Indian Ocean,Mauritius,Mauritius,,Perrier Crown Land,20.351829,S,57.489592,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+372,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Perrier Nature Reserve,20.351829,S,57.489592,E,DD,,Google Earth,0,0,0,0,0,0,563,0
+1535,570,Africa,Western Indian Ocean,Mauritius,Mauritius,,Petit Gorges,0,,0,,,,,0,0,0,0,0,0,0,0
+2072,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Petit Malabar Mountain,20.206459,S,57.462753,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+22,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Petit Raffray,20.0212,S,57.624136,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+570,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Petite Gorges de la Rivière Noire,0,,0,,,,,0,0,0,0,0,0,0,0
+1934,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Petite Pointe aux Piments,20.059286,S,57.5233,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1515,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Petite Retraite,20.162939,S,57.699886,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+305,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Petite Rivière,20.195719,S,57.445336,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1716,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Petite Rosalie,20.122194,S,57.609925,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+170,92,Africa,Western Indian Ocean,Mauritius,Mauritius,,Petrin,20.243079,S,57.282131,E,DMS,,,0,0,0,0,0,0,0,0
+41,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Phoenix,20.170205,S,57.293947,E,DMS,,,0,0,0,0,0,0,0,0
+1723,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piat Island,20.295425,S,57.506115,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+301,1083,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pierre Fonds,20.289159,S,57.441915,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1083,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pierrefonds,20.289159,S,57.441915,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+175,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pieter Both,20.191371,S,57.555178,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1900,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pieter Both Montain Range,20.191371,S,57.555178,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+93,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pigeon Wood,20.2621,S,57.2838,E,DMS,,,0,0,0,0,0,0,0,0
+1382,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pitel Crown Land,20.304633,S,57.563495,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+432,974,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton Bambou,20.322535,S,57.745081,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1913,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton Berthelot,20.211482,S,57.498948,E,DD,,Google Earth,0,0,0,0,0,0,579,609
+442,136,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton Brise Fer,20.378972,S,57.43125,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+700,253,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton Combo,0,,0,,,,,0,0,0,0,0,0,457,0
+427,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton Grand Bassin,20.419874,S,57.491351,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+633,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton Poule,20.461515,S,57.499634,E,DD,,Google Earth,0,0,0,0,0,0,678,0
+409,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton Savanne,20.451192,S,57.49811,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+458,23,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton de Rivière Noire,20.40446,S,57.408977,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+23,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton de la Petite Rivière Noire,20.40446,S,57.408977,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+653,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton du Canot,20.430183,S,57.378979,E,DD,,Google Earth,0,0,0,0,0,0,300,0
+118,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton du Fouge,20.450711,S,57.357887,E,DD,,Google Earth,0,0,0,0,0,0,486,0
+636,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Piton du Milieu,20.291643,S,57.585633,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+96,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine Champagne,20.417976,S,57.444997,E,DD,,Google Earth,0,0,0,0,0,0,740,0
+1188,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine Lauzun,20.17791,S,57.484419,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+457,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine Lievre,20.224965,S,57.265495,E,DMS,6,Google Earth,0,0,0,0,605,0,0,0
+1356,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine Magnien,20.432429,S,57.658806,E,DD,,Google Earth,0,0,0,0,0,0,60,0
+2205,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine Magnien,-20.431,S,57.6614,E,DD,5,Google Earth,0,0,0,0,0,0,75,100
+167,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine Paul,20.444722,S,57.487222,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+884,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine Raoul,20.39823,S,57.4811,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+102,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine Sophie,20.378818,S,57.480619,E,DD,,Google Earth,0,0,0,0,0,0,609,0
+1033,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine Wilhems,0,,0,,,,,0,0,0,0,0,0,33,0
+1248,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine des Calebasses,0,,0,,,,,0,0,0,0,0,0,0,0
+517,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaine des Lataniers,0,,0,,,,,0,0,0,0,0,0,0,0
+173,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Plaines des Roches,0,,0,,,,,0,0,0,0,0,0,0,0
+2118,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Plaines Wilhems,Plaisance,20.241699,S,57.441786,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1084,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Grand Port,Plaisance Airport,20.437532,S,57.679143,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+332,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe D'Esny,20.2528,S,57.4322,E,DMS,,,0,0,0,0,0,0,4,0
+1485,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe Lafayette,20.127149,S,57.755427,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2092,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Le Morne,Pointe Pecheurs,20.433072,S,57.322682,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1791,1333,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe Vacoas,20.456505,S,57.699717,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1137,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe aux Cannoniers,20.011809,S,57.5595,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1331,1347,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe aux Caves,20.191383,S,57.411564,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+563,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe aux Feuilles,20.310146,S,57.778134,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1422,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe aux Piments,20.062486,S,57.522888,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+208,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe aux Sables,20.102532,S,57.264434,E,DMS,,Google Earth,0,0,0,0,0,0,0,0
+1085,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe de Roche Noire,20.109314,S,57.745467,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+370,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe des Lascars,20.0513,S,57.4207,E,DMS,,,0,0,0,0,0,0,12,0
+2197,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe des Quatres Cocos,20.23661,S,57.802827,E,DD,6,Google Earth,0,0,0,0,0,0,2,0
+1223,1085,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pointe des Roches,20.109314,S,57.745467,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2037,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pomponette,20.3106,S,57.2923,E,DMS,,,0,0,0,0,0,0,10,0
+1766,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pont Blanc,20.171581,S,57.711958,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1846,1835,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pont Bon Dieu,20.185026,S,57.642666,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1835,1846,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pont Bondieu,20.185026,S,57.642666,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1568,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pont Colville,20.385704,S,57.565547,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+12,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Port Louis,20.1639,S,57.510461,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2201,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Port Louis,Port Louis,0,,0,,,,,0,0,0,0,0,0,0,0
+82,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Port Louis Central Market,20.160964,S,57.50297,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1736,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Port Louis Municipality Garden,20.164128,S,57.5043,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1506,707,Africa,Western Indian Ocean,Mauritius,Mauritius,,Poste La  Fayette,20.131973,S,57.750865,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+707,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Poste Lafayette,20.131973,S,57.750865,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+295,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Poste de Flacq,20.163713,S,57.734629,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+895,138,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pouce,20.19802,S,57.528557,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1196,138,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pouce Mountain,20.19802,S,57.528557,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+842,138,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pouce Mt,20.19802,S,57.528557,E,DD,,Google Earth,0,0,0,0,0,0,550,0
+378,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Poudre D'Or,20.0404,S,57.4052,E,DMS,,,0,0,0,0,0,0,13,0
+598,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Powder Mills,20.094191,S,57.553493,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1253,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Providence,0,,0,,,,,0,0,0,0,0,0,0,0
+890,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Providence Mt,20.35957,S,57.72876,E,DMS,,,0,0,0,0,0,0,328,0
+397,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Providence Mt.,20.2146,S,57.4336,E,DMS,,,0,0,0,0,0,0,346,0
+1626,12,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pt Louis,20.1639,S,57.510461,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1333,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pte Vacoas,20.456505,S,57.699717,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1702,1137,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pte aux Cannoniers,20.011809,S,57.5595,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1347,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pte aux Caves,20.191383,S,57.411564,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1708,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pte aux Roches,0,,0,,,,,0,0,0,0,0,0,0,0
+1712,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pte de Flacq,20.159688,S,57.754673,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+92,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pétrin,20.2429,S,57.2824,E,DMS,,,0,0,0,0,0,0,0,0
+19,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pétrin CMA,20.24237,S,57.28076,E,DMS,,,0,0,0,0,0,0,671,0
+754,92,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pétrin Crown Land,20.407335,S,57.470193,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1717,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pétrin Forest Station,20.408869,S,57.472783,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+868,92,Africa,Western Indian Ocean,Mauritius,Mauritius,,Pétrin Nature Reserve,20.407335,S,57.470193,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1022,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Quartier Militaire,20.246057,S,57.596712,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+47,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Quatre Bornes,20.16026,S,57.284628,E,DMS,,,0,0,0,0,0,0,0,0
+1740,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Quatre Cocos,20.210684,S,57.772327,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1240,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Quatre Soeurs,20.30006,S,57.77314,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+214,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Beau Bassin - Rose Hill,Queen Elizabeth College,20.238028,S,57.478492,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2101,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Flacq,Queen Victoria,20.21948,S,57.713355,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+708,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Vacoas,Quinze Cantons,20.305053,S,57.473664,E,DD,,Google Earth,0,0,0,0,0,0,500,0
+2055,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Quoin Bluff,20.104259,S,57.294186,E,DMS,,,0,0,0,0,0,0,0,0
+942,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Quoin de Mire,19.941386,S,57.62084,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+139,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rambouillet,20.0908,S,57.3628,E,DMS,,,0,0,0,0,0,0,0,0
+778,884,Africa,Western Indian Ocean,Mauritius,Mauritius,,Raoul,20.39823,S,57.4811,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+230,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ravine Matala,20.321243,S,57.442721,E,DD,3,Google Earth,0,0,0,0,0,0,0,0
+553,747,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rempart Montagne,20.303758,S,57.428063,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+772,747,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rempart Mt,20.303758,S,57.428063,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+363,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Riambel,20.3105,S,57.3053,E,DMS,,,0,0,0,0,0,0,12,0
+90,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rich Fund,20.1236,S,57.4014,E,DMS,,,0,0,0,0,0,0,0,0
+365,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Riche En Eau,20.386781,S,57.657633,E,DD,,Google Earth,0,0,0,0,0,0,12,0
+1265,90,Africa,Western Indian Ocean,Mauritius,Mauritius,,Riche Fond,20.211271,S,57.67322,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+355,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Riche Terre,20.0731,S,57.3008,E,DMS,,,0,0,0,0,0,0,11,0
+68,90,Africa,Western Indian Ocean,Mauritius,Mauritius,,Richefonds,20.211271,S,57.67322,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+25,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Richelieu,20.191868,S,57.456549,E,DD,,Google Earth,0,0,0,0,0,0,134,0
+1376,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Richelieu Experimental Station,0,,0,,,,,0,0,0,0,0,0,0,0
+368,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ripailles,20.1151,S,57.3447,E,DMS,,,0,0,0,0,0,0,485,0
+1828,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,River Citron,20.084894,S,57.526379,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+132,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,River Moka,20.21754,S,57.510067,S,DD,,Google Earth,0,0,0,0,0,0,0,0
+1726,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Bee Manique,20.37336,S,57.610668,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1698,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Cascade,0,,0,,,,,0,0,0,0,0,0,0,0
+1118,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Champagne,20.367988,S,57.6939,E,DD,,Google Earth,0,0,0,0,0,0,30,0
+995,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Chevrettes,20.109977,S,57.686285,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+685,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Cogliano,20.345131,S,57.491034,E,DD,,Google Earth,0,0,0,0,0,0,600,0
+1752,356,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Creole,20.391297,S,57.69706,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+676,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Crown Land,0,,0,,,,,0,0,0,0,0,0,0,0
+1654,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Dimanche,20.333333,S,57.45,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+958,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière La Chaux,20.414991,S,57.665475,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1555,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Latanier,20.150958,S,57.510666,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1399,79,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Noire,0,,0,,,,,0,0,0,0,0,0,0,0
+1743,547,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Papaye,20.293041,S,57.431872,E,DD,,Google Earth,0,0,0,0,0,0,530,0
+547,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Papayes,20.293041,S,57.431872,E,DD,,Google Earth,0,0,0,0,0,0,534,0
+806,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Patate,20.497147,S,57.508023,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1525,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Patates,20.497147,S,57.508023,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1138,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Savanne,20.500148,S,57.518016,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1061,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Seche,20.25727,S,57.747646,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+263,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière St Amand,20.488894,S,57.596868,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+727,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière St Denis,20.443183,S,57.392116,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1724,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Sèche,0,,0,,,,,0,0,0,0,0,0,0,0
+2099,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Flacq,Rivière Sèche,20.257481,S,57.780632,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2100,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Plaines Wilhems,Rivière Sèche,20.336103,S,57.482223,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+722,572,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière Tamarin,20.364112,S,57.482558,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+640,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière des Aigrettes,20.381967,S,57.465588,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+764,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière des Anguilles,20.48808,S,57.558875,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1710,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière des Calebasses,20.119195,S,57.548048,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+356,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière des Créoles,20.2339,S,57.4134,E,DMS,,,0,0,0,0,0,0,17,0
+127,496,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière des Galets,20.504622,S,57.456839,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+496,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière des Galets,20.504622,S,57.456839,E,DD,,Google Earth,0,0,0,0,0,0,300,400
+1779,132,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière du Moka,20.21754,S,57.510067,S,DD,,Google Earth,0,0,0,0,0,0,0,0
+840,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière du Poste,20.427188,S,57.573508,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+793,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière du Rempart,20.107021,S,57.690966,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1432,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivière du Tombeau,20.140572,S,57.514435,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+604,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivulet Berrichon,20.329574,S,57.467198,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+310,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivulet Cresson,20.2547,S,57.3113,E,DMS,,,0,0,0,0,0,0,465,0
+2098,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rivulet Sèche,20.339898,S,57.492915,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+108,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Roche Bois,20.136778,S,57.509357,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+113,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Roche Brunes,20.235819,S,57.454153,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1491,89,Africa,Western Indian Ocean,Mauritius,Mauritius,,Roche Noir,20.108789,S,57.72433,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+913,89,Africa,Western Indian Ocean,Mauritius,Mauritius,,Roche Noire,20.108789,S,57.72433,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1351,89,Africa,Western Indian Ocean,Mauritius,Mauritius,,Roche Noires,20.108789,S,57.72433,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1295,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Roches Brunes,20.238252,S,57.454073,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+89,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Roches Noires,20.0702,S,57.4405,E,DMS,,,0,0,0,0,0,0,8,0
+1176,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rosalie S.E.,20.130808,S,57.611877,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1062,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rose Belle,20.404913,S,57.606527,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1584,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rose Belle S.E.,20.399079,S,57.599466,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+46,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rose Hill,20.243608,S,57.480721,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1209,46,Africa,Western Indian Ocean,Mauritius,Mauritius,,Rose-Hill,20.243608,S,57.48072,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+55,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Round Island,19.848675,S,57.7885,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1038,595,Africa,Western Indian Ocean,Mauritius,Mauritius,,Royal Botanic Gardens Pamplemousses,20.063235,S,57.344728,E,DMS,,,0,0,0,0,0,0,0,0
+1822,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ruisseau Bassin Sale,0,,0,,,,,0,0,0,0,0,0,0,0
+603,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ruisseau Berrichon,20.347032,S,57.476233,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2104,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ruisseau Canard,0,,0,,,,,0,0,0,0,0,0,0,0
+709,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ruisseau Marron,20.424269,S,57.512862,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+15,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Réduit,20.231791,S,57.489262,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+106,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Réduit,20.140967,S,57.294052,E,DMS,,,0,0,0,0,0,0,0,0
+1116,15,Africa,Western Indian Ocean,Mauritius,Mauritius,,Réduit,20.231791,S,57.489262,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1128,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Réunion,20.311853,S,57.496411,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1919,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Réunion,20.311853,S,57.496411,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+242,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Réunion S.E.,20.309922,S,57.493348,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1304,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sables Noir,20.171676,S,57.474634,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+904,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sainfray Crown Land,20.388548,S,57.458911,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1089,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Saint Antoine S.E.,20.039471,S,57.659991,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1738,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Saint Aubin,20.494982,S,57.549479,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1607,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Saint Aubin S.E.,20.49435,S,57.55108,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1799,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Saint Felix S.E.,0,,0,,,,,0,0,0,0,0,0,0,0
+599,928,Africa,Western Indian Ocean,Mauritius,Mauritius,,Saint Pierre Montagne,20.267284,S,57.433235,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1574,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sainte Croix,20.144633,S,57.534987,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+187,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Salazie,20.177355,S,57.617032,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1060,65,Africa,Western Indian Ocean,Mauritius,Mauritius,,Salines,20.376324,S,57.36935,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+88,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sans Souci,19.994357,S,57.632646,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+34,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Savannah,20.488957,S,57.616512,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2029,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Savannah S.E.,20.488957,S,57.616512,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+841,34,Africa,Western Indian Ocean,Mauritius,Mauritius,,Savanne,20.488957,S,57.616512,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1707,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Savinia,20.47897,S,57.638406,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+78,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sebastopol,20.29149,S,57.691274,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1536,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Seizième Mille,20.2012,S,57.3338,E,DMS,,,0,0,0,0,0,0,0,0
+2032,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Senneville,20.30024,S,57.335222,E,DMS,,,0,0,0,0,0,0,92,0
+130,2047,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sept Cascades,20.34939,S,57.464754,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+54,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Serpent Island,19.818604,S,57.806237,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+849,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Signal Mt,20.170867,S,57.490283,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+739,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Simonet,4.488754,S,57.445848,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+273,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Snail Rock,20.19404,S,57.51753,E,DD,,,0,0,0,0,0,0,0,0
+349,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sodnac,20.1625,S,57.2936,E,DMS,,,0,0,0,0,0,0,376,0
+360,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Solitude,20.0456,S,57.3216,E,DMS,,,0,0,0,0,0,0,27,0
+1424,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Solitude S.E.,20.081673,S,57.543197,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+218,102,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sophie,20.378818,S,57.480619,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1742,1618,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sorèze,20.209654,S,57.480931,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1618,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Sorèze Falls,20.209654,S,57.480931,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1461,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Souffleur,20.484077,S,57.647358,E,DD,,Google Earth,0,0,0,0,0,0,60,0
+111,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Souillac,20.519192,S,57.526862,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1601,263,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Amand River,20.488894,S,57.596868,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1437,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St André,20.078097,S,57.56763,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1070,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Antoine,0,,0,,,,,0,0,0,0,0,0,0,0
+2113,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Bel Ombre,St Antoine,0,,0,,,,,0,0,0,0,0,0,0,0
+2114,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Rivière du Rempart,St Antoine,0,S,0,E,DD,,,0,0,0,0,0,0,0,0
+1193,1089,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Antoine S.E.,20.039471,S,57.659991,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1587,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Aubin,20.494982,S,57.549479,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+206,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Avold,20.439363,S,57.55665,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1523,1574,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Croix,20.144633,S,57.534987,E,DD,,Google Earth,0,0,0,0,0,0,50,0
+1361,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Felix,20.505584,S,57.467914,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2039,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St François,20.2205,S,57.2624,E,DMS,6,,0,0,0,0,0,0,550,0
+2094,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Rivière du Rempart,St François S.E.,20.007161,S,57.641878,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+324,2039,Africa,Western Indian Ocean,Mauritius,Mauritius,,St François State Land,20.2162,S,57.2653,E,DMS,,,0,0,0,0,0,0,554,0
+1727,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Hubert,20.364954,S,57.642173,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1557,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Jean,20.2554,S,57.487943,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1380,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Julien,20.20237,S,57.679851,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1075,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Julien d'Hotman,20.229315,S,57.641062,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+829,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Marie Crown Land,20.437069,S,57.455762,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1170,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Pierre,20.219292,S,57.524089,E,DD,,Google Earth,0,0,0,0,0,0,250,0
+1777,928,Africa,Western Indian Ocean,Mauritius,Mauritius,,St Pierre Mt,20.267284,S,57.433235,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1034,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Stanley,20.251275,S,57.46206,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2097,829,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ste Marie,20.437069,S,57.455762,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1700,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Surinam,20.514811,S,57.511355,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+194,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tamarin,20.337436,S,57.375273,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1254,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tamarin Bay,20.318685,S,57.376758,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2108,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tamarin Bridge,20.331119,S,57.37902,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+308,2047,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tamarin Falls,20.34939,S,57.464754,E,DD,,Google Earth,0,0,0,0,0,0,504,0
+746,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tamarin Mt,20.354791,S,57.382783,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+594,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tamarin Ridge,20.354791,S,57.382783,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+572,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tamarin River,20.364112,S,57.482558,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+972,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tamarind Falls Reservoir,20.360085,S,57.466291,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+678,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tatamaka,20.366216,S,57.439874,E,DD,,Google Earth,0,0,0,0,0,0,600,0
+1245,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Terracine,20.510627,S,57.521133,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+306,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Terre Rouge,20.124324,S,57.539041,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2028,377,Africa,Western Indian Ocean,Mauritius,Mauritius,,Thabor,20.1357,S,57.2839,E,DMS,,,0,0,0,0,0,0,0,0
+1090,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,The Mount S.E.,20.111408,S,57.597068,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1059,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,The Vale,20.031877,S,57.601021,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1810,967,Africa,Western Indian Ocean,Mauritius,Mauritius,,Thorel,20.216356,S,57.624077,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+210,392,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tombeau Bay,20.139189,S,57.5061,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+835,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Tourelle du Tamarin,20.346136,S,57.377608,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+209,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trianon,20.154312,S,57.292747,E,DMS,,,0,0,0,0,0,0,0,0
+2203,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trianon S.E.,0,,0,,,,,0,0,0,0,0,0,0,0
+1567,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Triolet,20.05933,S,57.552561,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+278,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trois Mamelles,20.18,S,57.26,E,DMS,,,0,0,0,0,0,0,0,0
+183,278,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trois Mamelles Mt.,20.307756,S,57.442083,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+554,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trois Îlots,20.272845,S,57.747148,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+371,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trou D'Eau Douce,20.1423,S,57.4719,E,DMS,,,0,0,0,0,0,0,6,0
+1667,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trou Fanfaron,20.158072,S,57.493544,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+981,950,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trou Kanaka,20.4056,S,57.518543,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1852,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trou Pigeon,20.301124,S,57.407689,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+859,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trou Raoul,20.39823,S,57.4811,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+479,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trou aux Biches,20.03227,S,57.552173,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+40,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trou aux Cerfs,20.318304,S,57.511587,E,DD,,Google Earth,0,0,0,0,0,0,1800,0
+1841,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Trou de Madame Bouchet,20.366827,S,57.491356,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1063,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Union Ducray,20.506715,S,57.546145,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+216,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Union Park,20.38542,S,57.578758,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1366,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Union S.E.,20.50889,S,57.545361,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1182,1607,Africa,Western Indian Ocean,Mauritius,Mauritius,,Union St Aubin S.E.,20.49435,S,57.551082,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2190,0,Africa,Western Indian Ocean,Mauritius,Mauritius,Reduit,University Farm,20.1407,S,57.2929,E,,,,0,0,0,0,0,0,305,0
+116,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vacoas,20.17,S,57.29,E,DMS,,,0,0,0,0,0,0,0,0
+581,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vacoas Ridge,0,,0,,,,,0,0,0,0,0,0,0,0
+1105,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Val Riche,0,,0,,,,,0,0,0,0,0,0,0,0
+185,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Valetta,20.256033,S,57.563939,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1807,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vally Crown Land,20.451027,S,57.45112,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+752,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vallée Pitot,20.169568,S,57.524389,,DD,,Google Earth,0,0,0,0,0,0,0,0
+266,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vallée d'Osterlog,20.348455,S,57.616717,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+267,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vallée de Ferney,20.2001,S,57.4128,E,DMS,,,0,0,0,0,0,0,0,0
+8,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vallée de l'Est,20.331165,S,57.725167,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+290,313,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vallée des Pretres,20.163388,S,57.535846,E,DD,,Google Earth,0,0,0,0,0,0,30,0
+73,313,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vallée des Prètres,20.163388,S,57.535846,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+313,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vallée des Prêtres,20.1103,S,57.3159,E,DMS,,,0,0,0,0,0,0,291,0
+831,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Verdun,20.232696,S,57.552032,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1600,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vermont,0,,0,,,,,0,0,0,0,0,0,0,0
+1371,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vieux Grand Port,20.372864,S,57.718959,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+655,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Ville Bague,20.145565,S,57.622656,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1408,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vuillemain,20.220474,S,57.471918,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+440,1408,Africa,Western Indian Ocean,Mauritius,Mauritius,,Vuillemin,20.220474,S,57.471918,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+213,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Wolmar,20.301379,S,57.376934,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+179,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Wooton,20.304054,S,57.53665,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+225,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Yemen,20.339955,S,57.410537,E,DD,,Google Earth,0,0,0,0,0,0,76,0
+665,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Yemen Ridge,20.344083,S,57.415316,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2106,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Yemen S.E.,20.33844,S,57.40789,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1871,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Yemen Valley,20.341093,S,57.418474,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+886,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,de Rauville Crown Land,20.349604,S,57.485003,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+190,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île D'Ambre,20.036554,S,57.700069,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1350,55,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île Ronde,19.848636,S,57.788505,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+940,1048,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île Sancho,20.50386,S,57.448375,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+122,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île aux Aigrettes,20.2513,S,57.4354,E,DMS,7,,0,0,0,0,0,12,0,0
+670,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île aux Bernaches,20.025124,S,57.700917,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1516,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île aux Brocus,20.472638,S,57.684923,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1688,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île aux Bénitiers,20.417916,S,57.344676,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1280,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île aux Cerfs,20.271834,S,57.803511,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+674,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île aux Fouquets,20.395491,S,57.77775,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+2063,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île aux Fous,20.382942,S,57.787839,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1565,1149,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île aux Tonneliers,20.147043,S,57.490826,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+645,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île de la Passe,20.399,S,57.767344,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+959,122,Africa,Western Indian Ocean,Mauritius,Mauritius,,Île des Egrettes,20.2513,S,57.4354,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1714,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot,20.131014,S,57.578359,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+264,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot Barkly,20.158869,S,57.482207,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+469,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot Brocus,20.472204,S,57.684847,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+957,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot Fortier,20.385088,S,57.369359,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+730,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot Four a Chaux,0,,0,,,,,0,0,0,0,0,0,0,0
+394,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot Gabriel,19.5303,S,57.4017,E,DMS,,,0,0,0,0,0,0,1,0
+2109,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot Malais,20.397309,S,57.365359,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+650,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot Marianne,20.38032,S,57.787093,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+1048,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot Sancho,20.50386,S,57.448375,E,DD,,Google Earth,0,0,0,0,0,0,0,0
+219,0,Africa,Western Indian Ocean,Mauritius,Mauritius,,Îlot Vacoas,20.397722,S,57.770437,E,DD,,Google Earth,0,0,0,0,0,0,0,0
