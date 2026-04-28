@@ -41,25 +41,23 @@ devtools::install_github("ecoinfor/U.Taxonstand") # updating plant species
 library(U.Taxonstand)
 
 rm(new_pkgs, required_pkgs) # Tidy
-getwd()
+
 # =============================================================================
 # DATA LOADING
 # =============================================================================
 
 # NOTE: Save 'Herb_collection_25-09-2023' as CSV UTF-8 first to handle special
 # characters correctly. The gazetteer can stay as .xls.
-herb <- read.csv("Herb_collection_25-09-23.csv", na.strings = c("", "NA"))
-gazet <- read_xls("gazetteer.xls")
+herb <- read.csv(
+  "data/Herb_collection_25-09-2023.csv",
+  na.strings = c("", "NA")
+)
 
-cat(sprintf("  herb : %d rows, %d columns\n", nrow(herb), ncol(herb)))
-cat(sprintf("  gazet: %d rows, %d columns\n", nrow(gazet), ncol(gazet)))
-
+gazet <- read_csv("data/gazetteer.csv")
 
 # =============================================================================
 # COLUMN SELECTION & RENAMING
 # =============================================================================
-
-step_msg("0b", "Selecting and renaming columns ...")
 
 herb <- herb |>
   select(-c(1:3, 6, 8:12, 14, 15, 19, 21, 22, 33, 35:45, 47:61, 63, 66:97)) |>
