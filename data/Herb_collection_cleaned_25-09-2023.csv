@@ -1851,23 +1851,23 @@ id,cat,name,year,group,family,genus,spp,minor,locality,loc_note,x,y,ns,ew,xy_uni
 1096,NA,NA,2009,NA,NA,NA,Warneckea trinervis,NA,Fixon,NA,57.424688,20.473223,S,E,DD,Google Earth,herb,NA,NA,H.extract
 1096,NA,NA,2009,NA,NA,NA,Scutia myrtina,NA,Fixon,NA,57.424688,20.473223,S,E,DD,Google Earth,herb,NA,NA,H.extract
 1096,NA,NA,2009,NA,NA,NA,Gaertnera psychotrioides,NA,Fixon,NA,57.424688,20.473223,S,E,DD,Google Earth,herb,NA,NA,H.extract
-1097,PS,"Pynee, K",2011,Eudicots,Salicaceae,Casearia,Casearia coriacea Vent.,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DMS,NA,herb,"Growing on border of path, in black brown soil, full of humus. Fully exposed to sun and wind. In association with native species: Tambourissa peltata, Polyscias gracilis, Aphloia theiformis and Eugenia pollicina.",Rare locally.,H.original
-1097,NA,NA,2011,NA,NA,NA,Tambourissa peltata,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DMS,NA,herb,NA,NA,H.extract
-1097,NA,NA,2011,NA,NA,NA,Polyscias gracilis,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DMS,NA,herb,NA,NA,H.extract
-1097,NA,NA,2011,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DMS,NA,herb,NA,NA,H.extract
-1097,NA,NA,2011,NA,NA,NA,Eugenia pollicina,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DMS,NA,herb,NA,NA,H.extract
-1098,PS,"D'Argent, G; Pynee, K",2006,Eudicots,Myrtaceae,Syzygium,"Syzygium pyneei Byng, V. Florens & Baider",NA,Mondrain Nature Reserve,"30 - 35 m from main gate, on left of path.",57.568600000000004,20.2016,S,E,DD,NA,herb,"Growing on slope, in black brown soil, full of humus. Not fully exposed to sun and wind. In association with native species: Pittosporum senacia, Labourdonnaisia revoluta, Aphloia theiformis, Acalypha integrifolia and Ixora parviflora.",Very rare locally.,H.original
-1098,NA,NA,2006,NA,NA,NA,Pittosporum senacia,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-1098,NA,NA,2006,NA,NA,NA,Labourdonnaisia revoluta,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-1098,NA,NA,2006,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-1098,NA,NA,2006,NA,NA,NA,Acalypha integrifolia,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-1098,NA,NA,2006,NA,NA,NA,Ixora parviflora,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-1099,PS,"D'Argent, G; Pynee, K",2006,Eudicots,Myrtaceae,Syzygium,"Syzygium pyneei Byng, V. Florens & Baider",NA,Mondrain Nature Reserve,"30 - 35 m from main gate, on left of path.",57.568600000000004,20.2016,S,E,DD,NA,herb,"Growing on slope, in black brown soil, full of humus. Not fully exposed to sun and wind. In association with native species: Pittosporum senacia, Labourdonnaisia revoluta, Aphloia theiformis, Acalypha integrifolia and Ixora parviflora.",NA,H.original
-1099,NA,NA,2006,NA,NA,NA,Pittosporum senacia,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-1099,NA,NA,2006,NA,NA,NA,Labourdonnaisia revoluta,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-1099,NA,NA,2006,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-1099,NA,NA,2006,NA,NA,NA,Acalypha integrifolia,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-1099,NA,NA,2006,NA,NA,NA,Ixora parviflora,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1097,PS,"Pynee, K",2011,Eudicots,Salicaceae,Casearia,Casearia coriacea Vent.,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DMS,NA,herb,"Growing on border of path, in black brown soil, full of humus. Fully exposed to sun and wind. In association with native species: Tambourissa peltata, Polyscias gracilis, Aphloia theiformis and Eugenia pollicina.",Rare locally.,H.original
+1097,NA,NA,2011,NA,NA,NA,Tambourissa peltata,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DMS,NA,herb,NA,NA,H.extract
+1097,NA,NA,2011,NA,NA,NA,Polyscias gracilis,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DMS,NA,herb,NA,NA,H.extract
+1097,NA,NA,2011,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DMS,NA,herb,NA,NA,H.extract
+1097,NA,NA,2011,NA,NA,NA,Eugenia pollicina,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DMS,NA,herb,NA,NA,H.extract
+1098,PS,"D'Argent, G; Pynee, K",2006,Eudicots,Myrtaceae,Syzygium,"Syzygium pyneei Byng, V. Florens & Baider",NA,Mondrain Nature Reserve,"30 - 35 m from main gate, on left of path.",57.5686,20.2016,S,E,DD,NA,herb,"Growing on slope, in black brown soil, full of humus. Not fully exposed to sun and wind. In association with native species: Pittosporum senacia, Labourdonnaisia revoluta, Aphloia theiformis, Acalypha integrifolia and Ixora parviflora.",Very rare locally.,H.original
+1098,NA,NA,2006,NA,NA,NA,Pittosporum senacia,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1098,NA,NA,2006,NA,NA,NA,Labourdonnaisia revoluta,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1098,NA,NA,2006,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1098,NA,NA,2006,NA,NA,NA,Acalypha integrifolia,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1098,NA,NA,2006,NA,NA,NA,Ixora parviflora,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1099,PS,"D'Argent, G; Pynee, K",2006,Eudicots,Myrtaceae,Syzygium,"Syzygium pyneei Byng, V. Florens & Baider",NA,Mondrain Nature Reserve,"30 - 35 m from main gate, on left of path.",57.5686,20.2016,S,E,DD,NA,herb,"Growing on slope, in black brown soil, full of humus. Not fully exposed to sun and wind. In association with native species: Pittosporum senacia, Labourdonnaisia revoluta, Aphloia theiformis, Acalypha integrifolia and Ixora parviflora.",NA,H.original
+1099,NA,NA,2006,NA,NA,NA,Pittosporum senacia,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1099,NA,NA,2006,NA,NA,NA,Labourdonnaisia revoluta,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1099,NA,NA,2006,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1099,NA,NA,2006,NA,NA,NA,Acalypha integrifolia,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+1099,NA,NA,2006,NA,NA,NA,Ixora parviflora,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
 1100,PS,"Pynee, K; Allet, M; Wiehe, A",2009,Eudicots,Apocynaceae,Cynanchum,Cynanchum staubii Bosser,NA,Mt Beau Champ,NA,57.3161,20.0906,S,E,DMS,Google Earth,herb,"In association with native species: Scutia myrtina, Doratoxylon apetalum and Eugenia lucida. Growing on steep slope, in black brown soil, full of humus; then reaching canopy of an Eugenia tinifolia at 2.5 m high. Not fully exposed to sun and wind.",Rare locally.,H.original
 1100,NA,NA,2009,NA,NA,NA,Scutia myrtina,NA,Mt Beau Champ,NA,57.3161,20.0906,S,E,DMS,Google Earth,herb,NA,NA,H.extract
 1100,NA,NA,2009,NA,NA,NA,Doratoxylon apetalum,NA,Mt Beau Champ,NA,57.3161,20.0906,S,E,DMS,Google Earth,herb,NA,NA,H.extract
@@ -2502,7 +2502,7 @@ id,cat,name,year,group,family,genus,spp,minor,locality,loc_note,x,y,ns,ew,xy_uni
 1441,PS,"Vaughan, RE",1939,Monocots,Poaceae,Setaria,Setaria,NA,Albion,NA,57.409269,20.209064,S,E,DD,Google Earth,gazet,Roadside weed. Rare.,NA,H.original
 1442,PS,"Rochecouste, E",1940,Monocots,Poaceae,Setaria,Setaria megaphylla (Steud.) T. Durand & Schinz,NA,Quatre Bornes,Common in bamboo edges at curepipe.,57.284628,20.16026,S,E,DMS,NA,gazet,NA,NA,H.original
 1446,PS,"Bouton, LS",0,Monocots,Poaceae,Paspalidium,Paspalidium flavidum (Retz.) A. Camus,NA,Port Louis,NA,57.510461,20.1639,S,E,DD,Google Earth,gazet,"Croit dans les plaines autour du Port Louis, et sur le pendant des montagnes dans les lieux ombrages.",NA,H.original
-1447,PS,"Vaughan, RE",0,Monocots,Poaceae,Paspalum,Paspalum vaginatum Sw.,NA,Tombeau Bay,NA,57.506100000000004,20.139189,S,E,DD,Google Earth,gazet,In marshes at al altitudes but more common in brachish water  in littoral regions.,NA,H.original
+1447,PS,"Vaughan, RE",0,Monocots,Poaceae,Paspalum,Paspalum vaginatum Sw.,NA,Tombeau Bay,NA,57.5061,20.139189,S,E,DD,Google Earth,gazet,In marshes at al altitudes but more common in brachish water  in littoral regions.,NA,H.original
 1449,PS,"Rochecouste, E",1949,Monocots,Poaceae,Paspalum,Paspalum distichum L.,NA,Hermitage,NA,NA,NA,NA,NA,NA,NA,missing,NA,NA,H.original
 1450,PS,"Guého, J",1969,Monocots,Poaceae,Paspalum,Paspalum scrobiculatum L.,NA,Marianne Island,NA,57.787093,20.38032,S,E,DD,Google Earth,gazet,Growing on rockly ground in savannah.,NA,H.original
 1451,PS,"Lamusse, M",1973,Monocots,Poaceae,Paspalum,Paspalum,NA,Plaine Sophie,Near Mare Longue. Weed of tea fields in this locality.,57.480619,20.378818,S,E,DD,Google Earth,gazet,NA,NA,H.original
@@ -20570,7 +20570,7 @@ Rainfall 30-50''",NA,H.original
 16898,PS,"Thompson, RK",1976,Monocots,Hydrocharitaceae,Hydrilla,Hydrilla verticillata (L. f.) Royle,NA,Beau Plan S.E.,NA,57.579266,20.100007,S,E,DD,Google Earth,gazet,NA,NA,H.original
 16901,PS,"Thompson, RK",1978,Monocots,Hydrocharitaceae,Hydrilla,Hydrilla verticillata (L. f.) Royle,NA,St Antoine,Growing in pond (P5).,NA,NA,NA,NA,NA,NA,missing,NA,NA,H.original
 16903,PS,"Thompson, RK",1977,Monocots,Hydrocharitaceae,Lagarosiphon,Lagarosiphon,NA,Surinam,"Growing in pond (P, M).",57.511355,20.514811,S,E,DD,Google Earth,gazet,NA,NA,H.original
-16904,PS,"Vaughan, RE",1951,Monocots,Hydrocharitaceae,Halophila,Halophila stipulacea (Forssk.) Asch.,NA,Tombeau Bay,Bredged at tombeau Bay near northern shore in 2.4 fathoms.,57.506100000000004,20.139189,S,E,DD,Google Earth,gazet,NA,NA,H.original
+16904,PS,"Vaughan, RE",1951,Monocots,Hydrocharitaceae,Halophila,Halophila stipulacea (Forssk.) Asch.,NA,Tombeau Bay,Bredged at tombeau Bay near northern shore in 2.4 fathoms.,57.5061,20.139189,S,E,DD,Google Earth,gazet,NA,NA,H.original
 16905,PS,"Glosel, J",1941,Monocots,Hydrocharitaceae,Halophila,Halophila stipulacea (Forssk.) Asch.,NA,Pointe aux Sables,NA,57.264434,20.102532,S,E,DMS,Google Earth,gazet,NA,NA,H.original
 16906,PS,"Morin, G",1947,Monocots,Hydrocharitaceae,Halophila,Halophila stipulacea (Forssk.) Asch.,NA,Pointe aux Sables,In lagoon. Submerged 1-2 ft. at high tide sandy bottom.,57.264434,20.102532,S,E,DMS,Google Earth,gazet,NA,NA,H.original
 16907,PS,"Lorence, DH",1974,Monocots,Hydrocharitaceae,Halophila,Halophila stipulacea (Forssk.) Asch.,NA,Grand Bay,Just North of Yacht Club.,57.5835,20.009141,S,E,DD,Google Earth,gazet,NA,NA,H.original
@@ -20679,7 +20679,7 @@ Rainfall 30-50''",NA,H.original
 17057,PS,"Vaughan, RE",1962,Monocots,Pandanaceae,Pandanus,Pandanus microcarpus Balf. f.,NA,La Marie,"Stream bank near La Marie water works, Riv. Cogliano?",57.493251,20.339096,S,E,DD,Google Earth,gazet,NA,NA,H.original
 17058,PS,"Staub, F",1964,Monocots,Pandanaceae,Pandanus,Pandanus microcarpus Balf. f.,NA,Minici,River bank. Minici c. 1 mile south of Moka.,57.51375,20.241324,S,E,DD,Google Earth,gazet,NA,NA,H.original
 17059,PS,"Vaughan, RE",1942,Monocots,Pandanaceae,Pandanus,Pandanus microcarpus Balf. f.,Plaines Wilhems,Rivière Sèche,Near Henrietta.,57.482223,20.336103,S,E,DD,Google Earth,gazet,NA,NA,H.original
-17060,PS,"Vaughan, RE",1961,Monocots,Pandanaceae,Pandanus,Pandanus microcarpus Balf. f.,NA,Rivulet Sèche,Banks of R. Seche near La Marie water works.,57.492915000000004,20.339898,S,E,DD,Google Earth,gazet,NA,NA,H.original
+17060,PS,"Vaughan, RE",1961,Monocots,Pandanaceae,Pandanus,Pandanus microcarpus Balf. f.,NA,Rivulet Sèche,Banks of R. Seche near La Marie water works.,57.492915,20.339898,S,E,DD,Google Earth,gazet,NA,NA,H.original
 17061,PS,"Vinson, J-M",1970,Monocots,Pandanaceae,Pandanus,Pandanus microcarpus Balf. f.,NA,Montagne des Creoles Range,Western flank. Near village Beau Site.,57.666232,20.356725,S,E,DD,Google Earth,gazet,NA,NA,H.original
 17062,PS,"Vaughan, RE",0,Monocots,Pandanaceae,Pandanus,Pandanus obsoletus R.E. Vaughan & Wiehe,NA,Pétrin,Left hand side of path leading to Macabe.,57.2824,20.2429,S,E,DMS,NA,gazet,NA,NA,H.original
 17063,PS,"Vaughan, RE; Wiehe, PO",1947,Monocots,Pandanaceae,Pandanus,Pandanus palustris Thou.,NA,Curepipe,CSC Curepipe.,57.526529,20.317087,S,E,DD,Google Earth,gazet,NA,NA,H.original
@@ -20702,7 +20702,7 @@ Rainfall 30-50''",NA,H.original
 17073,PS,"Wiehe, PO",1947,Monocots,Pandanaceae,Pandanus,Pandanus prostratus Balf. f.,NA,Curepipe,Curepipe Road. Piat Island,57.526529,20.317087,S,E,DD,Google Earth,gazet,NA,NA,H.original
 17078,PS,"Vaughan, RE",1947,Monocots,Pandanaceae,Pandanus,Pandanus pyramidalis Barkly ex Balf. f.,NA,Curepipe,Grotte Bonnefin.,57.526529,20.317087,S,E,DD,Google Earth,gazet,NA,NA,H.original
 17079,PS,"Guého, J; Lesouëf, J-Y",1982,Monocots,Pandanaceae,Pandanus,Pandanus pyramidalis Barkly ex Balf. f.,NA,Curepipe,Grotte Bonnefin.,57.526529,20.317087,S,E,DD,Google Earth,gazet,NA,NA,H.original
-17080,PS,"Vaughan, RE",1970,Monocots,Pandanaceae,Pandanus,Pandanus pyramidalis Barkly ex Balf. f.,NA,Rivulet Sèche,Near La Marie.,57.492915000000004,20.339898,S,E,DD,Google Earth,gazet,Bank of river.,NA,H.original
+17080,PS,"Vaughan, RE",1970,Monocots,Pandanaceae,Pandanus,Pandanus pyramidalis Barkly ex Balf. f.,NA,Rivulet Sèche,Near La Marie.,57.492915,20.339898,S,E,DD,Google Earth,gazet,Bank of river.,NA,H.original
 17082,PS,"Bosser, J; Owadally, AW; Guého, J",1988,Monocots,Pandanaceae,Pandanus,Pandanus pyramidalis Barkly ex Balf. f.,NA,Curepipe,Grotte Bonnefin. Growing by side of stream.,57.526529,20.317087,S,E,DD,Google Earth,gazet,NA,NA,H.original
 17086,PS,"Bosser, J; Guého, J; Lecordier, G",1982,Monocots,Pandanaceae,Pandanus,Pandanus rigidifolius R.E. Vaughan & Wiehe,NA,Pétrin Nature Reserve,NA,57.470193,20.407335,S,E,DD,Google Earth,gazet,NA,NA,H.original
 17087,PS,"Vaughan, RE",1969,Monocots,Pandanaceae,Pandanus,Pandanus rigidifolius R.E. Vaughan & Wiehe,NA,Pétrin,NA,57.2824,20.2429,S,E,DMS,NA,gazet,NA,NA,H.original
@@ -24175,18 +24175,18 @@ barklyanum",NA,Cascade 500 pieds,NA,57.457896,20.442832,S,E,DD,Google Earth,gaze
 21506,PS,"Vaughan, RE",1938,Eudicots,Meliaceae,Turraea,Turraea oppositifolia (Cav.) Harms,NA,Cocotte Mt,NA,57.467358,20.439481,S,E,DD,Google Earth,gazet,NA,NA,H.original
 21511,PS,"Morin, G",1942,Eudicots,Malvaceae,Abutilon,Abutilon hirtum (Lam.) Sweet,NA,Port Louis,NA,57.510461,20.1639,S,E,DD,Google Earth,gazet,In waste places low levels.,Very common.,H.original
 21516,PS,"Guého, J",1968,Eudicots,Malvaceae,Hibiscus,Hibiscus genevii Bojer ex Hook.,NA,Réduit,MSIRI,57.489262,20.231791,S,E,DD,Google Earth,gazet,in cultivation,NA,H.original
-21518,S,"D'Argent, G; Pynee, K",2006,Eudicots,Myrtaceae,Syzygium,"Syzygium pyneei Byng, V. Florens & Baider",NA,Mondrain Nature Reserve,"30 - 35 m from main gate, on left of path.",57.568600000000004,20.2016,S,E,DD,NA,herb,"In association with native species: Pittosporum senacia, Labourdonnaisia revoluta, Aphloia theiformis, Acalypha integrifolia and Ixora parviflora.",NA,H.original
-21518,NA,NA,2006,NA,NA,NA,Pittosporum senacia,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-21518,NA,NA,2006,NA,NA,NA,Labourdonnaisia revoluta,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-21518,NA,NA,2006,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-21518,NA,NA,2006,NA,NA,NA,Acalypha integrifolia,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-21518,NA,NA,2006,NA,NA,NA,Ixora parviflora,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-21519,S,"D'Argent, G; Pynee, K",2007,Eudicots,Myrtaceae,Syzygium,"Syzygium pyneei Byng, V. Florens & Baider",NA,Mondrain Nature Reserve,30 - 35 m from main gate.,57.568600000000004,20.2016,S,E,DD,NA,herb,"In association with native species: Pittosporum senacia, Labourdonnaisia revoluta, Aphloia theiformis, Acalypha integrifolia and Ixora parviflora.",NA,H.original
-21519,NA,NA,2007,NA,NA,NA,Pittosporum senacia,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-21519,NA,NA,2007,NA,NA,NA,Labourdonnaisia revoluta,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-21519,NA,NA,2007,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-21519,NA,NA,2007,NA,NA,NA,Acalypha integrifolia,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
-21519,NA,NA,2007,NA,NA,NA,Ixora parviflora,NA,Mondrain Nature Reserve,NA,57.568600000000004,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21518,S,"D'Argent, G; Pynee, K",2006,Eudicots,Myrtaceae,Syzygium,"Syzygium pyneei Byng, V. Florens & Baider",NA,Mondrain Nature Reserve,"30 - 35 m from main gate, on left of path.",57.5686,20.2016,S,E,DD,NA,herb,"In association with native species: Pittosporum senacia, Labourdonnaisia revoluta, Aphloia theiformis, Acalypha integrifolia and Ixora parviflora.",NA,H.original
+21518,NA,NA,2006,NA,NA,NA,Pittosporum senacia,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21518,NA,NA,2006,NA,NA,NA,Labourdonnaisia revoluta,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21518,NA,NA,2006,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21518,NA,NA,2006,NA,NA,NA,Acalypha integrifolia,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21518,NA,NA,2006,NA,NA,NA,Ixora parviflora,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21519,S,"D'Argent, G; Pynee, K",2007,Eudicots,Myrtaceae,Syzygium,"Syzygium pyneei Byng, V. Florens & Baider",NA,Mondrain Nature Reserve,30 - 35 m from main gate.,57.5686,20.2016,S,E,DD,NA,herb,"In association with native species: Pittosporum senacia, Labourdonnaisia revoluta, Aphloia theiformis, Acalypha integrifolia and Ixora parviflora.",NA,H.original
+21519,NA,NA,2007,NA,NA,NA,Pittosporum senacia,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21519,NA,NA,2007,NA,NA,NA,Labourdonnaisia revoluta,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21519,NA,NA,2007,NA,NA,NA,Aphloia theiformis,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21519,NA,NA,2007,NA,NA,NA,Acalypha integrifolia,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
+21519,NA,NA,2007,NA,NA,NA,Ixora parviflora,NA,Mondrain Nature Reserve,NA,57.5686,20.2016,S,E,DD,NA,herb,NA,NA,H.extract
 21520,PS,"Vaughan, RE",1941,Monocots,Orchidaceae,Bulbophyllum,Bulbophyllum sambiranense Jum. & H. Perrier,NA,Plaine Champagne,NA,57.444997,20.417976,S,E,DD,Google Earth,gazet,NA,NA,H.original
 21521,PS,"Vaughan, RE",1935,Monocots,Orchidaceae,Bulbophyllum,Bulbophyllum sambiranense Jum. & H. Perrier,NA,Les Mares,Phyllipia heath.,57.470424,20.427417,S,E,DD,Google Earth,gazet,NA,NA,H.original
 21522,PS,"Baider, C; Florens, V; Thormann, B",2010,Eudicots,Myrtaceae,Syzygium,Syzygium populifolium (Baker) J. Guého & A.J. Scott,NA,Mt Cocotte,NA,57.2752,20.2621,S,E,DMS,NA,herb,"Growing on invade native forest of canopy 15 m, with Tamborissa sieberi, Ocotea laviegata and subcanopy of Macarnaga mauririana, Eugenia (sensu Monimiastrum), Cyathea excelsa and nderstory of Casearia mauritiana, Turraea oppositifolia, Allophyllus borbonicum and Memecylon (M cordatum or sp nov), invaded by mainly Psidium cattleianum and some Ligustrum robustum.",NA,H.original
@@ -27492,36 +27492,36 @@ barklyanum",NA,Cascade 500 pieds,NA,57.457896,20.442832,S,E,DD,Google Earth,gaze
 22557,NA,NA,2018,NA,NA,NA,Leucaena leucocephala,NA,Grand Malabar Mountain,NA,57.270064,20.133653,S,E,DMS,Google Earth,herb,NA,NA,H.extract
 22557,NA,NA,2018,NA,NA,NA,Furcraea foetida,NA,Grand Malabar Mountain,NA,57.270064,20.133653,S,E,DMS,Google Earth,herb,NA,NA,H.extract
 22557,NA,NA,2018,NA,NA,NA,Macroptilium atropurpureum,NA,Grand Malabar Mountain,NA,57.270064,20.133653,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22558,PS,"Pynee, K; Desbleds, S",2018,Eudicots,Fabaceae,Rhynchosia,Rhynchosia viscosa (Roth) DC. var. breviracemosa (Hauman) Verdc.,NA,Grand Malabar Mountain,Mont Roches.,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,"Growing among big boulders in black brown soil, in highly degraded native vegetation, composed of patches of mixed thickets and mostly grassy areas (prone to fire). In association with native species: Ficus reflexa and Dodonaea viscosa, and other exotics: Panicum maximum, Schinus terebinthifolius, Heteropogon contortus, Phaseolus lunatus, Merremia aegyptia,  Furcraea foetida and Sorghum arundinaceum.",Common locally. Tendency to invade area.,H.original
-22558,NA,NA,2018,NA,NA,NA,Ficus reflexa,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22558,NA,NA,2018,NA,NA,NA,Dodonaea viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22558,NA,NA,2018,NA,NA,NA,Panicum maximum,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22558,NA,NA,2018,NA,NA,NA,Schinus terebinthifolius,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22558,NA,NA,2018,NA,NA,NA,Heteropogon contortus,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22558,NA,NA,2018,NA,NA,NA,Phaseolus lunatus,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22558,NA,NA,2018,NA,NA,NA,Merremia aegyptia,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22558,NA,NA,2018,NA,NA,NA,Furcraea foetida,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22558,NA,NA,2018,NA,NA,NA,Sorghum arundinaceum,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22559,PS,"Pynee, K; Desbleds, S",2018,Eudicots,Fabaceae,Phaseolus,Phaseolus lunatus L.,NA,Grand Malabar Mountain,Mont Roches.,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,"Growing among big boulders in black brown soil, in highly degraded native vegetation, composed of patches of mixed thickets and mostly grassy areas (prone to fire). In association with native species: Ficus reflexa and Dodonaea viscosa, and other exotics: Panicum maximum, Schinus terebinthifolius, Heteropogon contortus, Rhynchosia viscosa var. breviracemosa, Merremia aegyptia,  Furcraea foetida and Sorghum arundinaceum.",Common locally. Tendency to invade area.,H.original
-22559,NA,NA,2018,NA,NA,NA,Ficus reflexa,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22559,NA,NA,2018,NA,NA,NA,Dodonaea viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22559,NA,NA,2018,NA,NA,NA,Panicum maximum,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22559,NA,NA,2018,NA,NA,NA,Schinus terebinthifolius,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22559,NA,NA,2018,NA,NA,NA,Heteropogon contortus,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22559,NA,NA,2018,NA,NA,NA,Rhynchosia viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22559,NA,NA,2018,NA,NA,NA,Merremia aegyptia,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22559,NA,NA,2018,NA,NA,NA,Furcraea foetida,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22559,NA,NA,2018,NA,NA,NA,Sorghum arundinaceum,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22560,PS,"Pynee, K",2018,Eudicots,Convolvulaceae,Merremia,Merremia aegyptia (L.) Urb.,NA,Grand Malabar Mountain,Mont Roches.,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,"Growing in an extend of 3.5 m x 6 m, among big boulders in black brown soil, in highly degraded native vegetation, composed of patches of mixed thickets and mostly grassy areas (prone to fire). In association with native species: Ficus reflexa and Dodonaea viscosa, and other exotics: Panicum maximum, Schinus terebinthifolius, Heteropogon contortus, Phaseolus lunatus, Rhynchosia viscosa var. breviracemosa,  Furcraea foetida and Sorghum arundinaceum.",Common locally.,H.original
-22560,NA,NA,2018,NA,NA,NA,Ficus reflexa,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22560,NA,NA,2018,NA,NA,NA,Dodonaea viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22560,NA,NA,2018,NA,NA,NA,Panicum maximum,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22560,NA,NA,2018,NA,NA,NA,Schinus terebinthifolius,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22560,NA,NA,2018,NA,NA,NA,Heteropogon contortus,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22560,NA,NA,2018,NA,NA,NA,Phaseolus lunatus,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22560,NA,NA,2018,NA,NA,NA,Rhynchosia viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22560,NA,NA,2018,NA,NA,NA,Furcraea foetida,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
-22560,NA,NA,2018,NA,NA,NA,Sorghum arundinaceum,NA,Grand Malabar Mountain,NA,57.264971,20.132930000000002,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22558,PS,"Pynee, K; Desbleds, S",2018,Eudicots,Fabaceae,Rhynchosia,Rhynchosia viscosa (Roth) DC. var. breviracemosa (Hauman) Verdc.,NA,Grand Malabar Mountain,Mont Roches.,57.264971,20.13293,S,E,DMS,Google Earth,herb,"Growing among big boulders in black brown soil, in highly degraded native vegetation, composed of patches of mixed thickets and mostly grassy areas (prone to fire). In association with native species: Ficus reflexa and Dodonaea viscosa, and other exotics: Panicum maximum, Schinus terebinthifolius, Heteropogon contortus, Phaseolus lunatus, Merremia aegyptia,  Furcraea foetida and Sorghum arundinaceum.",Common locally. Tendency to invade area.,H.original
+22558,NA,NA,2018,NA,NA,NA,Ficus reflexa,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22558,NA,NA,2018,NA,NA,NA,Dodonaea viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22558,NA,NA,2018,NA,NA,NA,Panicum maximum,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22558,NA,NA,2018,NA,NA,NA,Schinus terebinthifolius,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22558,NA,NA,2018,NA,NA,NA,Heteropogon contortus,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22558,NA,NA,2018,NA,NA,NA,Phaseolus lunatus,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22558,NA,NA,2018,NA,NA,NA,Merremia aegyptia,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22558,NA,NA,2018,NA,NA,NA,Furcraea foetida,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22558,NA,NA,2018,NA,NA,NA,Sorghum arundinaceum,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22559,PS,"Pynee, K; Desbleds, S",2018,Eudicots,Fabaceae,Phaseolus,Phaseolus lunatus L.,NA,Grand Malabar Mountain,Mont Roches.,57.264971,20.13293,S,E,DMS,Google Earth,herb,"Growing among big boulders in black brown soil, in highly degraded native vegetation, composed of patches of mixed thickets and mostly grassy areas (prone to fire). In association with native species: Ficus reflexa and Dodonaea viscosa, and other exotics: Panicum maximum, Schinus terebinthifolius, Heteropogon contortus, Rhynchosia viscosa var. breviracemosa, Merremia aegyptia,  Furcraea foetida and Sorghum arundinaceum.",Common locally. Tendency to invade area.,H.original
+22559,NA,NA,2018,NA,NA,NA,Ficus reflexa,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22559,NA,NA,2018,NA,NA,NA,Dodonaea viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22559,NA,NA,2018,NA,NA,NA,Panicum maximum,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22559,NA,NA,2018,NA,NA,NA,Schinus terebinthifolius,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22559,NA,NA,2018,NA,NA,NA,Heteropogon contortus,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22559,NA,NA,2018,NA,NA,NA,Rhynchosia viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22559,NA,NA,2018,NA,NA,NA,Merremia aegyptia,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22559,NA,NA,2018,NA,NA,NA,Furcraea foetida,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22559,NA,NA,2018,NA,NA,NA,Sorghum arundinaceum,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22560,PS,"Pynee, K",2018,Eudicots,Convolvulaceae,Merremia,Merremia aegyptia (L.) Urb.,NA,Grand Malabar Mountain,Mont Roches.,57.264971,20.13293,S,E,DMS,Google Earth,herb,"Growing in an extend of 3.5 m x 6 m, among big boulders in black brown soil, in highly degraded native vegetation, composed of patches of mixed thickets and mostly grassy areas (prone to fire). In association with native species: Ficus reflexa and Dodonaea viscosa, and other exotics: Panicum maximum, Schinus terebinthifolius, Heteropogon contortus, Phaseolus lunatus, Rhynchosia viscosa var. breviracemosa,  Furcraea foetida and Sorghum arundinaceum.",Common locally.,H.original
+22560,NA,NA,2018,NA,NA,NA,Ficus reflexa,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22560,NA,NA,2018,NA,NA,NA,Dodonaea viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22560,NA,NA,2018,NA,NA,NA,Panicum maximum,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22560,NA,NA,2018,NA,NA,NA,Schinus terebinthifolius,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22560,NA,NA,2018,NA,NA,NA,Heteropogon contortus,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22560,NA,NA,2018,NA,NA,NA,Phaseolus lunatus,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22560,NA,NA,2018,NA,NA,NA,Rhynchosia viscosa,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22560,NA,NA,2018,NA,NA,NA,Furcraea foetida,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
+22560,NA,NA,2018,NA,NA,NA,Sorghum arundinaceum,NA,Grand Malabar Mountain,NA,57.264971,20.13293,S,E,DMS,Google Earth,herb,NA,NA,H.extract
 22561,PS,"Marie, D",2003,Eudicots,Convolvulaceae,Ipomoea,Ipomoea pes-caprae (L.) R. Br.,NA,Grand Gaube,North East part of the island.,57.3926,20.0114,S,E,DMS,NA,gazet,Plant collected on the seashore.,NA,H.original
 22562,PS,"Guého, J",1963,Eudicots,Convolvulaceae,Ipomoea,Ipomoea pes-caprae (L.) R. Br.,NA,Pointe D'Esny,Near jetty for Ile aux Aigrettes.,57.4322,20.2528,S,E,DMS,NA,gazet,Creeping over sandy fore-shore.,NA,H.original
 22565,PS,"Lorence, DH",1974,Eudicots,Convolvulaceae,Ipomoea,Ipomoea pes-caprae (L.) R. Br. ssp. brasiliensis (L.) Oostr.,NA,Quoin Bluff,Basalt islet off N. coast.,57.294186,20.104259,S,E,DMS,NA,gazet,NA,Common all over the island.,H.original

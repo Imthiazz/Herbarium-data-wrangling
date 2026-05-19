@@ -37,9 +37,6 @@ library(rnaturalearth)
 library(rnaturalearthdata)
 library(viridis)
 
-devtools::install_github("ecoinfor/U.Taxonstand") # updating plant species
-library(U.Taxonstand)
-
 rm(new_pkgs, required_pkgs) # Tidy
 
 # =============================================================================
@@ -1938,13 +1935,25 @@ print(comparison_table)
 final_data <- bind_rows(herb, extracted_data) |>
   arrange(id)
 
-write_csv(final_data, "data/Herb_collection_cleaned_25-09-2023.csv")
+write_xlsx(final_data, "data/Herb_collection_cleaned_25-09-2023.xlsx")
 
 rm(extracted_data, herb, comparison_table, all_columns) # Tidy
+
+# proceed to manual cleaning of "spp" column as precaution
 
 # =============================================================================
 # STEP 6 – Update / validate species names with Taxonstand
 # =============================================================================
+
+# install require package for naming update
+devtools::install_github("ecoinfor/U.Taxonstand") # updating plant species
+library(U.Taxonstand)
+
+# read data
+herb <- read.csv(
+  "data/Herb_collection_cleaned_25-09-2023.csv",
+  na.strings = c("", "NA")
+)
 
 # Extract unique species names that look like binomials (Genus species)
 unique_spp <- final_data |>
