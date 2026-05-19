@@ -57,7 +57,9 @@ gazet <- read_csv("data/gazetteer.csv")
 # =============================================================================
 
 herb <- herb |>
-  select(-c(1:3, 6, 8:12, 14, 15, 19, 21, 22, 33, 35:45, 47:61, 63, 66:97)) |>
+  select(
+    -c(1:3, 6, 8:12, 14, 15, 19, 21, 22, 29, 31, 33, 35:45, 47:61, 63, 66:97)
+  ) |>
   rename(
     id = BRAHMS,
     cat = CATEGORY,
@@ -73,9 +75,7 @@ herb <- herb |>
     locality = LOCALITY,
     loc_note = LOCNOTES,
     y = LAT,
-    ns = NS,
     x = LONG,
-    ew = EW,
     xy_unit = LLUNIT,
     xy_source = LLORIG,
     habitat_note = HABITATTXT,
@@ -95,7 +95,7 @@ gazet <- gazet |>
     xy_source = llorig
   )
 
-# Remove rows with no location data
+# Remove rows with no locality data
 herb <- herb |> filter(locality != "No loc." | is.na(locality))
 gazet <- gazet |> filter(x != 0 | is.na(x))
 
@@ -108,6 +108,8 @@ herb <- herb |> filter(!cul %in% "Yes")
 # =============================================================================
 # STEP 2 – Remove garden / planted localities
 # =============================================================================
+
+herb %>% distinct(locality)
 
 garden_localities <- c(
   "University Farm",
@@ -153,33 +155,19 @@ rm(garden_localities)
 # STEP 3 – Fill missing coordinates from Gazetteer
 # =============================================================================
 
+rm(gazet, gazet_unique) # Tidy
+
+# =============================================================================
+# STEP 3 – Fill missing coordinates from Gazetteer
+# =============================================================================
+
 # Deduplicate gazetteer on locality + minor (keep first occurrence)
 gazet_unique <- gazet |>
   group_by(locality, minor) |>
   slice(1) |>
   ungroup()
 
-# Left-join, then coalesce herb coords with gazet coords where herb is missing
-herbs <- herb |>
-  left_join(
-    gazet_unique,
-    by = c("locality", "minor"),
-    suffix = c(".herb", ".gazet")
-  ) |>
-  mutate(
-    x = if_else(is.na(x.herb) | x.herb == 0, x.gazet, x.herb),
-    y = if_else(is.na(y.herb) | y.herb == 0, y.gazet, y.herb),
-    ns = coalesce(ns.herb, ns.gazet),
-    ew = coalesce(ew.herb, ew.gazet),
-    xy_unit = coalesce(xy_unit.herb, xy_unit.gazet),
-    xy_source = coalesce(xy_source.herb, xy_source.gazet)
-  ) |>
-  # Drop all the suffixed columns and redundant fields
-  select(
-    -cul,
-    -cul_note
-  )
-
+# Join herbarium + gazetteer and fill missing coordinates
 herb <- herb |>
   left_join(
     gazet_unique,
@@ -198,9 +186,7 @@ herb <- herb |>
       TRUE ~ "missing"
     ),
 
-    # Merge metadata fields
-    ns = coalesce(ns.herb, ns.gazet),
-    ew = coalesce(ew.herb, ew.gazet),
+    # Merge coordinate metadata
     xy_unit = coalesce(xy_unit.herb, xy_unit.gazet),
     xy_source = coalesce(xy_source.herb, xy_source.gazet)
   ) |>
@@ -213,27 +199,37 @@ herb <- herb |>
     family,
     genus,
     spp,
-    country = country.herb, # or coalesce if needed
+    country = country.herb,
     major = major.herb,
     minor,
     locality,
     loc_note,
     x,
     y,
-    ns,
-    ew,
     xy_unit,
     xy_source,
     coord_source,
     habitat_note,
     notes
+  ) |>
+  # Remove rows without coordinates
+  filter(
+    !is.na(x),
+    !is.na(y),
+    x != 0,
+    y != 0
+  ) |>
+  # Standardize coordinate precision
+  mutate(
+    x = round(as.numeric(x), 5),
+    y = round(as.numeric(y), 5)
   )
 
+# Inspect final dataset
 glimpse(herb)
 
-write_xlsx(herb, "herb_f.xlsx")
-
-rm(gazet, gazet_unique) # Tidy
+# Tidy environment
+rm(gazet, gazet_unique)
 
 # =============================================================================
 # STEP 4 – Extract species names from habitat_note column
@@ -274,6 +270,10 @@ unique_species <- extracted_data %>%
 
 non_species <- c(
   "About one",
+  "Abrupt cliffs",
+  "Abundant along",
+  "Abundant and",
+  "Adjacent native",
   "Additional det",
   "Aigrettes can",
   "Almost in",
@@ -392,6 +392,7 @@ non_species <- c(
   "Cane field",
   "Cane fields",
   "Cane fields",
+  "Canefield weed",
   "Canopy reaching",
   "Champagne plateau",
   "Champagne tributary",
@@ -699,6 +700,7 @@ non_species <- c(
   "Full sunlight",
   "Fully exposed",
   "Garden at",
+  "Geometriques on",
   "Good quality",
   "Gorges de",
   "Governement dairy",
@@ -1637,6 +1639,7 @@ non_species <- c(
   "Shady ditch",
   "Shady habitat",
   "Shady humid",
+  "Shady moist",
   "hady moist",
   "Shady native",
   "Shady places",
@@ -1932,12 +1935,26 @@ comparison_table <- data.frame(
 
 print(comparison_table)
 
-final_data <- bind_rows(herb, extracted_data) |>
+updated_herb <- bind_rows(herb, extracted_data) |>
   arrange(id)
 
-write_xlsx(final_data, "data/Herb_collection_cleaned_25-09-2023.xlsx")
-
 rm(extracted_data, herb, comparison_table, all_columns) # Tidy
+
+# =============================================================================
+# STEP 5 – Remove / update incomplete species name
+# =============================================================================
+
+unique_species <- updated_herb %>%
+  filter(source == "H.extract") %>%
+  select(spp) %>%
+  distinct() %>%
+  arrange(spp)
+
+non_species <- c(
+  ""
+)
+
+#write_xlsx(final_data, "data/Herb_collection_cleaned_25-09-2023.xlsx")
 
 # proceed to manual cleaning of "spp" column as precaution
 
