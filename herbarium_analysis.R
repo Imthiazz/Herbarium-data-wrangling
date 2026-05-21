@@ -2373,7 +2373,7 @@ rm(species_replacement, unique_species) # Tidy
 updated_herb$x <- as.character(updated_herb$x)
 updated_herb$y <- as.character(updated_herb$y)
 
-write_csv(updated_herb, "data/Herb_collection_cleaned_25-09-2023.csv")
+write_xlsx(updated_herb, "data/Herb_collection_cleaned_25-09-2023.xlsx")
 
 # proceed to manual cleaning of "spp" column as precaution
 
@@ -2382,7 +2382,10 @@ write_csv(updated_herb, "data/Herb_collection_cleaned_25-09-2023.csv")
 # =============================================================================
 
 # install require package for naming update
-devtools::install_github("ecoinfor/U.Taxonstand") # updating plant species
+install.packages("pak") # if not already installed
+library("pak")
+
+pak::pak("ecoinfor/U.Taxonstand") # updating plant species
 library(U.Taxonstand)
 
 # read data
@@ -2392,19 +2395,28 @@ herb <- read.csv(
 )
 
 # Extract unique species names that look like binomials (Genus species)
-unique_spp <- final_data |>
-  filter(str_detect(spp, "^[A-Z][a-z]+ [a-z]+")) |>
-  distinct(spp) |>
-  pull(spp)
+unique_species <- updated_herb %>%
+  select(spp) %>%
+  distinct() %>%
+  mutate(
+    spp = str_squish(spp), # remove extra spaces
+    spp = str_trim(spp)
+  ) %>%
+  filter(
+    str_detect(spp, "^[A-Z][a-z]+\\s+[a-z-]+$")
+  ) %>%
+  arrange(spp)
 
 # Run Taxonstand — may take several minutes for large lists
 # corr = TRUE  : allow minor spelling corrections
 # diffchar = 2 : tolerate up to 2 character differences
 # max.distance = 1 : Levenshtein distance threshold
-taxon_results <- TPL(
-  unique_spp,
-  corr = TRUE,
-  diffchar = 2,
+data(databaseExample)
+
+taxo_result <- nameMatch(
+  spList = unique_species$spp,
+  spSource = databaseExample,
+  author = TRUE,
   max.distance = 1
 )
 
